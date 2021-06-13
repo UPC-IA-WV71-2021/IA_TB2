@@ -12,4 +12,4 @@ use anaconda cmd -> tensorboard --logdirr=carpet
 
 example:
 
-tensorboard --logdirr=C:\Users\User\Downloads\IA\TB2\logs
+tensorboard --logdir=C:\Users\User\Downloads\IA\TB2\logs
