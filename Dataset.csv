@@ -1,0 +1,1611 @@
+Person_type,Colour,Height,Age,Gender,Head,Torso,Legs,Feet,Accessories,Blood,Armed,Banners,Type,x_min,y_min,x_max,y_max,Actions
+Law Officer,Native,1.80,32,M,Cap|face mask,Jacket,N.I,N.I,None,No,Gun,None,Seated,51,6,392,705,Idle
+Delinquent ,White,1.73,21,M,None|face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,426,92,623,718,Idle
+Law Officer,Native,1.72,44,M,Cap|face mask,Shirt,N.I,N.I,None,No,Gun,None,Moving,646,129,926,720,Idle
+Law Officer,White,1.73,55,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,316,83,646,720,Idle
+Viewer,White,1.75,57,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,699,69,1095,720,Idle
+Viewer,Native,1.69,26,F,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Seated,510,105,900,720,Idle
+Viewer,Native,1.70,38,M,Cap|face mask,T-shirt,Shorts,N.I,None,No,No,None,Seated,623,128,841,720,Idle
+Law Officer,White,1.74,50,M,Face mask,Jacket,Pants,Sneakers,None,No,No,None,Standing,315,210,380,392,Idle
+Viewer,White,1.76,52,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Standing,368,205,440,392,Idle
+Viewer,N.I,1.70,28,F,Helmet|face mask,Protective suit,Protective pants,Boots,None,No,No,None,Standing,458,187,557,506,Idle
+Viewer,N.I,1.75,29,M,Helmet|face mask,Protective suit,Protective pants,Boots,None,No,No,None,Standing,550,170,662,490,Idle
+Viewer,N.I,1.73,25,M,Helmet|cap|face mask,Protective suit,Protective pants,Boots,None,No,No,None,Standing,634,178,676,405,Idle
+Viewer,N.I,1.73,32,M,Helmet,Protective suit,Protective pants,Boots,None,No,No,None,Standing,665,203,739,421,Idle
+Viewer,Native,1.77,29,M,Face mask,Jacket,Pants,Sneakers,None,No,No,None,Standing,776,157,864,457,Idle
+Viewer,White,1.68,35,F,Face mask,Jacket,Jeans,Sneakers,None,No,No,None,Standing,856,193,928,431,Idle
+Viewer,N.I,1.74,N.I,M,Helmet,Protective suit,Protective pants,Boots,None,No,No,None,Standing,885,159,974,409,Idle
+Viewer,White,1.75,52,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,294,40,536,720,Idle
+Viewer,White,1.70,46,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,158,134,485,720,Idle
+Law Officer,Native,1.71,32,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Moving,894,90,1151,720,Idle
+Viewer,Native,1.72,30,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,221,336,355,720,Idle
+Viewer,Native,1.70,42,M,Cap|face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,345,113,638,720,Idle
+Viewer,Native,1.68,26,F,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,594,131,885,720,Idle
+Law Officer,Native,1.70,50,M,Face mask,Jacket,N.I,N.I,None,No,No,None,Standing,954,2,1279,720,Carrying
+Law Officer,Black,1.71,26,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Crouched,392,222,663,599,Carrying
+Law Officer,Native,1.75,50,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Moving,564,122,696,582,Carrying
+Viewer,Native,1.70,29,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Crouched,668,240,899,601,Carrying
+Viewer,White,1.68,33,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,803,151,1059,561,Carrying
+Law Officer,Native,1.67,46,M,Face mask,Jacket,Pants,Shoes,None,No,No,None,Standing,169,172,399,720,Carrying
+Law Officer,White,1.70,32,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,460,159,688,720,Carrying
+Viewer,White,N.I,47,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,592,124,748,427,Carrying
+Viewer,White,1.73,30,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Crouched,707,183,919,720,Carrying
+Law Officer,Native,1.70,40,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Moving,1024,201,1234,720,Carrying
+Viewer,Native,1.72,42,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,245,73,766,699,Talking
+Viewer,Native,1.75,37,M,None ,T-shirt,N.I,N.I,None,No,No,None,Standing,636,272,769,619,Talking
+Victim,White,1.71,35,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,248,72,831,709,Talking
+Victim,White,1.68,32,F,Face mask,Blouse,N.I,N.I,None,No,No,None,Seated,892,182,1261,720,Talking
+Delinquent ,Black,1.70,28,M,Cap|face mask,T-shirt|backpack,Jeans,Sneakers,None,No,Gun,None,Moving,371,149,464,354,Stealing
+Delinquent ,Black,1.75,33,M,Cap|face mask,T-shirt,Pants,Sneakers,None,No,Gun,None,Moving,516,70,635,327,Stealing
+Delinquent ,Black,1.71,42,M,Cap|face mask,T-shirt,Jeans,Sneakers,None,No,Gun,None,Moving,677,136,791,409,Stealing
+Victim,Native,1.70,35,M,None,T-shirt,N.I,N.I,None,No,No,None,Seated,663,127,727,291,Idle
+Victim,Native,1.65,41,F,None,Blouse,N.I,N.I,None,No,No,None,Seated,774,132,831,301,Idle
+Victim,Black,1.80,23,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Seated,853,143,900,295,Idle
+Victim,White,1.70,32,F,None,Blouse,Skirt,N.I,None,No,No,None,Seated,874,197,928,351,Idle
+Victim,White,1.63,25,F,Cap ,Sweater,N.I,N.I,None,No,No,None,Seated,923,132,1008,338,Idle
+Victim,Native,1.72,26,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Seated,945,215,1035,447,Idle
+Victim,Black,1.70,32,F,None,Blouse,Skirt,N.I,None,No,No,None,Seated,1013,150,1095,378,Idle
+Victim,Native,1.68,41,F,None,Blouse,N.I,N.I,None,No,No,None,Seated,1127,195,1216,424,Idle
+Victim,Native,1.73,23,M,None,T-shirt,Shorts,N.I,None,No,No,None,Seated,150,427,276,661,Idle
+Victim,Native,1.67,58,M,Face mask,Shirt,N.I,N.I,None,No,No,None,Seated,190,360,342,577,Idle
+Victim,White,1.70,36,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Seated,349,451,481,673,Idle
+Victim,White,1.66,36,F,None,Blouse,Shorts,N.I,None,No,No,None,Seated,519,392,646,675,Idle
+Delinquent ,Black,1.71,23,M,Cap,Sweater,Shorts,Sneakers,None,No,No,None,Moving,760,187,872,495,Stealing
+Delinquent ,Black,1.68,25,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,408,190,540,510,Stealing
+Law Officer,Native,1.73,28,M,Cap|face mask,Jacket,N.I,N.I,None,No,No,None,Standing,369,4,1120,720,Talking
+Law Officer,N.I,1.70,31,F,Cap|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,30,200,108,442,Working
+Law Officer,Native,1.67,33,F,Beret|face mask,Sweater,Pants,Boots,None,No,Gun,None,Standing,187,359,263,655,Working
+Law Officer,Native,1.74,35,M,Beret|face mask,Sweater,Pants,Boots,None,No,Gun,None,Standing,248,379,316,649,Working
+Law Officer,Native,1.72,40,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Standing,304,404,381,647,Working
+Law Officer,Native,1.75,43,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Standing,305,268,391,537,Working
+Law Officer,Native,1.75,39,M,Beret|face mask,Sweater,Pants,Boots,None,No,Gun,None,Standing,395,296,505,551,Working
+Law Officer,Native,1.72,47,M,Helmet|face mask,Sweater,Pants,Boots,None,No,Gun,None,Crouched,459,442,544,672,Working
+Law Officer,Native,1.77,52,M,Beret|face mask,Sweater,Pants,Boots,None,No,Gun,None,Crouched,732,400,889,699,Working
+Viewer,Black,1.70,30,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,510,118,633,443,Idle
+Viewer,Asian,1.72,32,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Standing,144,142,178,245,Idle
+Law Officer,Native,1.68,42,M,Cap|face mask,Shirt,Pants,Boots,None,No,No,None,Moving,717,125,864,554,Working
+Delinquent ,Black,1.71,23,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,849,60,1048,567,Idle
+Delinquent ,Black,1.69,27,M,Beanie|face mask,Jacket,Jeans,Sneakers,None,No,No,None,Moving,289,55,344,197,Stealing
+Delinquent ,Black,1.70,22,M,Beanie|face mask,Sweater,Shorts,Sneakers,None,No,No,None,Moving,354,63,410,218,Stealing
+Victim,Native,1.68,26,M,Glasses,T-shirt,Shorts,Sneakers,None,No,No,None,Seated,224,108,358,360,Idle
+Delinquent ,Black,1.69,27,M,Beanie|face mask,Jacket,Shorts,N.I,None,No,Gun,None,Standing,286,91,466,360,Stealing
+Delinquent ,Black,1.70,22,M,Beanie|face mask,Sweater,Shorts,Sneakers,None,No,Gun,None,Moving,375,18,513,343,Stealing
+Viewer,Native,N.I,33,M,Cap,T-shirt,N.I,N.I,None,No,No,None,Seated,164,21,317,263,Driving
+Viewer,Black,1.73,30,M,Cap|face mask,T-shirt,Pants,Sneakers,None,No,No,None,Standing,45,44,119,228,Idle
+Viewer,Native,1.70,35,M,Cap|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,75,29,187,238,Idle
+Viewer,Native,1.70,29,M,Cap|face mask,T-shirt,Pants,Sneakers,None,No,No,None,Standing,166,20,222,195,Idle
+Viewer,White,1.68,44,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,223,6,288,209,Idle
+Viewer,Black,N.I,37,M,None,T-shirt,N.I,N.I,None,No,No,None,Seated,245,120,461,316,Idle
+Victim,Native,1.68,35,M,None,T-shirt,N.I,N.I,None,No,No,None,Standing,126,17,423,360,Idle
+Victim,Native,1.68,35,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,159,35,367,360,Idle
+Viewer,White,1.65,35,M,None,Shirt,N.I,N.I,None,No,No,None,Still,1,16,242,351,Idle
+Viewer,White,1.68,27,F,None,Blouse,N.I,N.I,None,No,No,None,Still,183,8,490,338,Idle
+Viewer,Native,N.I,32,M,None,T-shirt,N.I,N.I,None,No,No,None,Still,140,8,399,360,Idle
+Viewer,Native,1.68,27,F,Face mask,Blouse,N.I,N.I,None,No,No,None,Moving,109,40,290,360,Idle
+Viewer,Native,1.72,32,F,Face mask,Blouse,N.I,N.I,None,No,No,None,Moving,361,8,526,360,Idle
+Viewer,White,1.65,33,F,Face mask,Blouse,N.I,N.I,None,No,No,None,Seated,350,75,539,360,Idle
+Viewer,Native,1.73,31,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,1,108,79,360,Idle
+Viewer,White,1.72,N.I,M,N.I,Shirt,N.I,N.I,None,No,No,None,Moving,121,71,399,360,Idle
+Viewer,White,1.74,28,M,Face mask,Shirt|backpack,Jeans,N.I,None,No,No,None,Moving,373,87,446,256,Idle
+Viewer,Native,1.70,45,M,Face mask,Shirt,Pants,N.I,None,No,No,None,Standing,427,88,501,248,Idle
+Viewer,White,1.67,33,F,Face mask,T-shirt,Jeans,Sneakers,None,Yes,No,None,Standing,227,10,319,344,Staring
+Viewer,Black,1.68,27,M,Cap|face mask,T-shirt,Pants,N.I,None,No,No,None,Standing,190,35,215,168,Staring
+Viewer,Native,1.65,37,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,214,35,241,156,Staring
+Viewer,Native,1.72,46,M,Face mask,Coat,Pants,Shoes,None,No,No,None,Standing,324,37,353,204,Staring
+Viewer,Black,1.70,23,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,338,198,364,282,Staring
+Viewer,Native,1.73,28,M,Cap|face mask,T-shirt|backpack,Pants,Sneakers,None,No,No,None,Moving,31,24,56,92,Staring
+Viewer,Native,1.66,35,F,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,377,195,399,283,Staring
+Viewer,Native,1.82,29,M,Cap|face mask,T-shirt,Pants,N.I,None,No,No,None,Moving,434,195,452,277,Staring
+Viewer,White,1.70,28,M,Cap|face mask,Coat,Jeans,Sneakers,None,No,No,None,Standing,5,223,21,290,Staring
+Viewer,Native,1.72,33,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Standing,19,225,37,286,Staring
+Viewer,White,1.68,34,F,Face mask,Shirt,Pants,Shoes,None,No,No,None,Moving,271,219,304,335,Staring
+Law Officer,Native,1.73,46,M,Cap|face mask,Shirt,Pants,Shoes,None,No,No,None,Moving,94,218,106,269,Working
+Viewer,Native,1.65,52,F,Face mask,Jacket,Pants,Shoes,None,No,No,None,Crouched,148,233,172,282,Staring
+Victim,Native,1.76,36,M,None,T-shirt,Jeans,Sneakers,None,Yes,No,None,Dead,82,182,266,235,Idle
+Viewer,Native,1.69,25,F,Face mask,Coat,Pants,N.I,None,No,No,None,Moving,213,145,245,225,Staring
+Viewer,Black,1.70,28,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,261,147,291,204,Staring
+Victim,White,1.71,32,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,278,139,296,211,Idle
+Viewer,Black,1.70,23,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,304,518,337,247,Staring
+Viewer,Black,1.72,26,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,469,228,508,339,Idle
+Viewer,Black,1.68,32,M,Cap|face mask,Jacket,Pants,Boots,None,No,No,None,Moving,378,135,414,207,Idle
+Viewer,Native,1.63,37,F,None,Blouse ,Pants,N.I,None,No,No,None,Moving,287,1,304,49,Idle
+Viewer,Black,1.70,40,M,None,Coat,Pants,N.I,None,No,No,None,Standing,354,14,369,79,Idle
+Delinquent ,Black,N.I,N.I,M,Helmet,Sweater,Pants,Sneakers,None,No,No,None,Moving,345,166,388,259,Staring
+Viewer,N.I,N.I,N.I,F,Face mask,Coat,N.I,N.I,None,No,No,None,Standing,113,82,265,360,Staring
+Viewer,Native,1.71,56,M,Cap ,Blouse,Pants,N.I,None,No,No,None,Moving,67,95,95,191,Staring
+Viewer,Native,1.66,32,F,Face mask,Sweater,N.I,N.I,None,No,No,None,Standing,325,70,457,360,Staring
+Viewer,Black,1.75,33,M,Face mask,Shirt,Jeans,N.I,None,No,No,None,Standing,474,1,538,356,Staring
+Law Officer,Black,1.73,45,M,Cap|face mask,Jacket,Pants,Boots,None,No,Gun,None,Crouched,303,102,329,215,Staring
+Delinquent ,Black,1.69,25,M,None,Jacket,Shorts,Sneakers,None,No,No,None,Crouched,528,25,832,582,Staring
+Victim,N.I,N.I,N.I,M,None,T-shirt,Jeans,None,None,Yes,No,None,Dead,468,35,792,569,Idle
+Delinquent ,Black,1.77,26,M,Face mask,Jacket,N.I,None,None,No,Gun,None,Seated,462,141,834,720,Idle
+Delinquent ,Native,1.72,25,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Still,59,445,589,706,Idle
+Delinquent ,Native,1.70,22,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Still,10,248,720,643,Idle
+Delinquent ,White,1.72,25,M,None,T-shirt,Shorts,N.I,None,No,No,None,Still,232,190,497,512,Idle
+Delinquent ,White,1.76,18,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Still,502,13,926,484,Idle
+Delinquent ,Black,1.74,19,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Still,862,34,1280,481,Idle
+Delinquent ,Native,N.I,22,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Seated,779,178,1280,702,Idle
+Delinquent ,White,1.69,23,M,None,Coat,Pants,Sneakers,None,No,No,None,Standing,561,5,817,720,Idle
+Delinquent ,Native,1.67,19,M,None,Coat|jacket,Pants,N.I,None,No,No,None,Standing,529,75,810,703,Talking
+Law Officer,Black,1.73,33,M,Cap|face mask,Jacket,Pants,N.I,None,No,Gun,None,Standing,14,21,518,720,Talking
+Delinquent ,N.I,1.67,19,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Crouched,332,236,941,630,Talking
+Law Officer,White,1.72,29,M,Cap|face mask,Jacket,N.I,N.I,None,No,Gun,None,Standing,615,1,798,300,Working
+Delinquent ,White,N.I,22,M,None,Sweater|backpack,N.I,N.I,None,No,No,None,Standing,11,138,424,720,Staring
+Delinquent ,Native,N.I,18,M,None,T-shirt,N.I,N.I,None,No,No,None,Standing,487,91,910,718,Staring
+Delinquent ,Native,1.70,22,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Moving,420,19,740,532,Staring
+Delinquent ,White,1.74,19,M,None,Sweater,Pants,Sneakers,None,No,No,None,Moving,449,103,609,719,Staring
+Law Officer,Native,1.70,32,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,555,82,779,632,Staring
+Law Officer,White,1.76,36,M,Face mask,Jacket|sweater,Jeans,N.I,None,No,No,None,Standing,600,8,824,720,Staring
+Viewer,N.I,1.73,22,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,522,223,674,526,Staring
+Law Officer,White,1.70,30,M,Face mask,Jacket,Jeans,Sneakers,None,No,Gun,None,Crouched,405,70,816,495,Staring
+Delinquent ,Native,1.70,19,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Still,184,275,837,619,Talking
+Law Officer,White,1.68,57,M,Face mask,Shirt|jacket,N.I,N.I,None,No,No,None,Seated,514,83,1106,709,Idle
+Delinquent ,Native,N.I,18,M,None,Sweater,N.I,N.I,None,No,No,None,Seated,414,9,855,556,Idle
+Delinquent ,Native,1.73,21,M,Glasses,Jacket|sweater,Pants,N.I,None,No,Gun,None,Standing,898,1,1248,674,Idle
+Delinquent ,Black,1.69,24,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Seated,215,227,828,696,Idle
+Law Officer,White,1.67,45,M,Face mask,Shirt|jacket,N.I,N.I,None,No,No,None,Standing,11,128,211,703,Staring
+Law Officer,Native,1.65,56,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Standing,111,162,237,617,Staring
+Viewer,Native,1.68,33,M,Face mask,T-shirt,Pants,Boots,None,No,No,None,Standing,229,160,291,379,Staring
+Viewer,Native,1.68,42,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,303,151,391,403,Staring
+Law Officer,Native,1.73,35,M,Beret|face mask,Jacket,Pants,N.I,None,No,Gun,None,Standing,357,95,618,719,Staring
+Viewer,Native,1.70,58,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Standing,570,138,632,409,Staring
+Viewer,White,1.68,53,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Standing,633,139,722,391,Staring
+Law Officer,White,1.70,52,M,Cap|face mask,Shirt,N.I,N.I,None,No,No,None,Standing,653,101,1015,720,Staring
+Viewer,White,1.73,46,M,Face mask,Jacket,Jeans,N.I,None,No,No,None,Standing,924,106,1018,438,Staring
+Law Officer,Native,1.68,61,M,Face mask,Shirt,N.I,N.I,None,No,No,None,Standing,129,217,520,701,Idle
+Law Officer,Native,1.70,35,M,Cap|face mask,Jacket,Pants,N.I,None,No,No,None,Standing,1,210,68,437,Idle
+Viewer,Native,1.70,43,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Standing,39,210,116,456,Idle
+Viewer,Native,1.68,46,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Standing,114,221,176,423,Idle
+Law Officer,Native,1.75,52,M,Beret|face mask,Jacket,N.I,N.I,None,No,No,None,Standing,116,162,305,509,Idle
+Law Officer,Native,1.69,34,M,Face mask,Shirt,N.I,N.I,None,No,No,None,Standing,524,286,719,504,Idle
+Law Officer,Native,1.72,34,F,Face mask,Blouse,N.I,N.I,None,No,No,None,Standing,368,197,467,567,Idle
+Law Officer,Native,1.70,46,M,Cap|face mask,Jacket,N.I,N.I,None,No,No,None,Standing,1157,245,1280,584,Working
+Viewer,Black,1.64,35,F,Cap|face mask,Shirt,Pants,N.I,None,No,No,None,Standing,471,284,626,720,Idle
+Viewer,White,1.72,31,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Standing,626,193,767,665,Staring
+Law Officer,Black,1.74,36,M,Face mask,Jacket,N.I,N.I,None,No,No,None,Standing,794,186,966,582,Working
+Viewer,Native,1.68,41,M,Face mask,Shirt,N.I,N.I,None,No,No,None,Standing,715,188,811,395,Staring
+Viewer,Native,1.66,44,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Standing,954,178,1033,483,Staring
+Viewer,Native,1.70,56,M,Face mask,Shirt,Jeans,Shoes,None,No,No,None,Standing,1037,208,1119,471,Staring
+Viewer,Native,1.70,62,M,Face mask,Shirt,Pants,Shoes,None,No,No,None,Standing,1118,230,1201,425,Staring
+Viewer,Native,1.71,30,M,Face mask,Coat,Pants,Sneakers,None,No,No,None,Standing,1158,261,1222,526,Staring
+Delinquent ,Black,1.70,23,M,Helmet|face mask,Sweater|backpack,Pants,Sneakers,None,No,No,None,Seated,335,234,614,543,Idle
+Delinquent ,Native,1.69,19,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Seated,555,222,676,469,Idle
+Delinquent ,Black,1.70,22,M,Face mask,Coat,Jeans,Sneakers,None,No,No,None,Seated,652,184,872,404,Idle
+Delinquent ,Black,1.71,26,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Seated,733,199,1015,373,Idle
+Law Officer,White,1.70,48,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,387,91,494,295,Guarding
+Law Officer,Native,1.76,50,M,Cap|face mask,Shirt,Pants,N.I,None,No,No,None,Standing,563,78,629,265,Guarding
+Law Officer,White,1.72,61,M,Glasses|face mask,Jacket,Jeans,N.I,None,No,No,None,Standing,632,40,720,277,Guarding
+Law Officer,Native,1.75,41,M,Cap|face mask,Jacket,Pants,N.I,None,No,No,None,Standing,732,86,800,258,Guarding
+Law Officer,White,1.73,50,M,Face mask,Shirt,Pants,Shoes,None,No,No,None,Standing,780,53,862,322,Guarding
+Law Officer,Native,1.73,36,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Crouched,831,73,983,421,Guarding
+Law Officer,N.I,1.80,29,M,Beret|face mask,Jacket,Pants,Boots,None,No,No,None,Standing,1056,83,1101,319,Guarding
+Law Officer,Native,1.72,35,M,Cap|face mask,T-shirt,Pants,Boots,None,No,Gun,None,Standing,1168,84,1232,326,Guarding
+Law Officer,Native,1.73,32,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,639,245,700,490,Guarding
+Law Officer,Native,1.68,28,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,694,256,757,467,Guarding
+Law Officer,Native,1.72,45,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,744,325,850,508,Guarding
+Law Officer,Native,1.71,47,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,784,226,870,487,Guarding
+Law Officer,Native,1.69,35,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,861,215,939,508,Guarding
+Law Officer,White,1.75,28,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,915,169,1068,525,Guarding
+Law Officer,White,1.78,27,M,Beret|face mask,Jacket,Pants,Boots,None,No,Gun,None,Standing,1066,130,1248,570,Guarding
+Viewer,N.I,1.70,28,M,Helmet,Sweater,Shorts,Sneakers,None,No,No,None,Seated,9,134,60,244,Idle
+Viewer,White,1.68,26,F,None,Blouse,Shorts,Sneakers,None,No,No,None,Moving,515,165,538,283,Idle
+Delinquent ,Black,1.72,30,M,Helmet,Coat,Pants,Sneakers,None,No,Gun,None,Standing,333,29,359,77,Stealing
+Delinquent ,Native,1.70,32,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Seated,372,54,404,126,Stealing
+Delinquent ,Native,1.68,27,M,Helmet,Sweater,Jeans,Sneakers,None,No,No,None,Seated,412,58,447,123,Stealing
+Viewer,White,1.75,38,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,416,117,461,231,Idle
+Viewer,Black,1.70,27,M,Helmet,T-shirt,Shorts,N.I,None,No,No,None,Seated,122,28,171,120,Idle
+Law Officer,Native,1.72,33,M,Cap,Shirt,Pants,Shoes,None,No,Gun,None,Moving,251,188,329,303,Shooting
+Viewer,Native,1.66,41,F,None,Blouse,Jeans,Sneakers,None,No,No,None,Moving,153,45,186,110,Staring
+Viewer,Native,1.68,43,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Moving,255,73,303,144,Staring
+Delinquent ,Black,1.75,32,M,None,Coat,Pants,Sneakers,None,No,Gun,None,Standing,316,51,342,101,Shooting
+Delinquent ,Native,1.73,35,M,Helmet,Coat,Jeans,Sneakers,None,No,No,None,Seated,358,61,389,108,Idle
+Viewer,White,1.70,30,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,473,133,510,200,Staring
+Victim,Native,1.67,45,M,None ,Shirt,Pants,Shoes,None,No,No,None,Standing,345,103,385,226,Staring
+Law Officer,Native,1.72,35,M,Cap,Shirt,Pants,Shoes,None,No,No,None,Crouched,362,152,440,247,Working
+Delinquent ,Black,1.70,28,M,None,Coat,Jeans,Sneakers,None,No,No,None,Still,344,186,444,254,Idle
+Law Officer,White,1.73,33,M,Beret ,Jacket,Pants,Boots,None,No,Gun,None,Moving,318,107,348,192,Working
+Delinquent ,Native,1.70,35,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,263,101,317,276,Idle
+Law Officer,White,1.69,47,M,Glasses,Jacket,Jeans,Shoes,None,No,Gun,None,Moving,246,102,285,252,Working
+Delinquent ,Native,1.70,35,M,None,T-shirt,N.I,N.I,None,No,No,None,Standing,171,103,279,269,Idle
+Delinquent ,Native,1.65,29,M,None,Sweater,N.I,N.I,None,No,No,None,Standing,304,95,395,280,Idle
+Delinquent ,Native,1.68,19,M,Face mask,Sweater,Shorts,Sneakers,None,No,Knife,None,Moving,178,133,216,260,Fighting
+Delinquent ,Black,1.70,20,M,Face mask,T-shirt,Shorts,Sneakers,None,No,Knife,None,Moving,213,146,244,273,Fighting
+Delinquent ,Native,1.69,25,M,Face mask,T-shirt,N.I,Sneakers,None,No,Knife,None,Moving,242,153,279,237,Fighting
+Delinquent ,Native,1.72,22,M,Face mask,Sweater,Shorts,N.I,None,No,No,None,Moving,254,110,306,213,Fighting
+Delinquent ,Black,1.71,17,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Moving,301,111,350,229,Fighting
+Delinquent ,Black,1.66,19,M,Face mask,T-shirt,Shorts,N.I,None,No,Knife,None,Moving,338,97,401,251,Fighting
+Viewer,Native,1.68,25,M,Cap|face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,208,211,250,297,Staring
+Viewer,Native,1.67,21,F,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,253,205,277,281,Screaming
+Delinquent ,Black,1.70,18,M,None,Coat,Shorts,Sneakers,None,No,No,None,Moving,290,113,325,169,Running
+Delinquent ,Native,1.68,17,M,None,Sweater,Pants,Sneakers,None,No,No,None,Moving,238,122,265,182,Running
+Delinquent ,Black,1.69,18,M,Cap|face mask,Sweater,Shorts,Sneakers,None,No,Knife,None,Moving,240,150,255,212,Running
+Delinquent ,Black,1.68,22,M,None,Sweater,Shorts,Sneakers,None,No,Knife,None,Moving,188,142,216,216,Running
+Delinquent ,Native,1.70,21,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,221,152,239,216,Running
+Law Officer,Native,1.68,32,M,Helmet|face mask,Jacket,Pants,Shoes,None,No,No,None,Seated,347,44,377,110,Running
+Delinquent ,Black,1.69,23,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,376,94,398,175,Running
+Delinquent ,White,1.72,24,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,422,144,463,210,Running
+Viewer,Native,1.73,33,M,Cap|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,111,73,164,199,Staring
+Law Officer,Black,1.75,29,M,Cap|face mask,Jacket,Pants,Boots,None,No,No,None,Crouched,166,133,219,239,Running
+Viewer,White,1.72,31,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Standing,200,67,249,198,Staring
+Viewer,Native,1.68,24,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Standing,224,125,260,235,Staring
+Delinquent ,Black,1.67,22,M,None,None,Shorts,Sneakers,None,No,No,None,Standing,231,101,274,213,Stealing
+Law Officer,Black,1.68,36,F,Cap|face mask,Jacket,Pants,Sneakers,None,No,No,None,Standing,251,76,285,198,Running
+Viewer,Native,1.70,19,F,None,Blouse,Pants,Sneakers,None,No,No,None,Standing,287,112,333,241,Staring
+Viewer,Native,1.68,25,M,Cap|face mask,Shirt,Pants,Shoes,None,No,No,None,Standing,366,98,405,231,Staring
+Victim,Native,1.65,46,F,Face mask,Coat,Pants,Sneakers,None,No,Gun,None,Moving,203,62,424,150,Idle
+Delinquent ,Native,1.72,23,M,Helmet|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,235,56,266,150,Stealing
+Delinquent ,Native,1.75,28,M,Helmet|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Seated,316,81,377,172,Stealing
+Law Officer,Native,1.76,29,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,149,1,216,256,Working
+Law Officer,White,1.71,38,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,197,38,241,306,Working
+Delinquent ,Native,1.73,19,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,246,25,325,275,Staring
+Law Officer,White,1.80,32,M,Cap|face mask,Sweater,Pants,N.I,None,No,No,None,Moving,28,91,258,360,Staring
+Delinquent ,Black,1.71,19,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,197,99,299,360,Idle
+Delinquent ,Native,1.69,22,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,298,114,400,355,Idle
+Law Officer,Native,1.77,27,M,Cap|face mask,Jacket,Pants,N.I,None,No,No,None,Moving,336,84,515,356,Idle
+Delinquent ,White,1.74,30,M,Face mask,Coat|sweater,Pants,N.I,None,No,No,None,Moving,56,32,179,348,Idle
+Delinquent ,Native,1.71,28,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,138,48,325,356,Idle
+Delinquent ,Native,1.73,26,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,338,44,442,360,Idle
+Law Officer,White,1.75,44,M,Cap|glasses|face mask,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,1,15,105,282,Staring
+Law Officer,White,1.76,46,M,Cap|glasses|face mask,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,212,27,374,335,Staring
+Law Officer,White,1.70,35,F,Cap|glasses|face mask,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,388,69,649,350,Staring
+Law Officer,Native,1.69,52,M,Cap|glasses|face mask,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,472,94,540,327,Staring
+Law Officer,White,1.81,38,M,Face mask,Jacket|shirt,Jeans,Shoes,None,No,Gun,None,Standing,97,13,172,187,Staring
+Delinquent ,Native,N.I,N.I,M,None,Coat,Pants,Sneakers,None,No,No,None,Standing,107,165,201,265,Idle
+Delinquent ,White,N.I,N.I,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Standing,254,183,337,254,Idle
+Law Officer,Native,1.73,31,F,Cap|glasses|face mask,Shirt,Pants,Boots,None,No,Gun,None,Standing,263,36,325,216,Staring
+Viewer,Black,1.70,36,M,Cap|glasses|face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,219,20,250,123,Staring
+Viewer,Black,1.67,36,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,243,25,272,117,Staring
+Law Officer,Black,1.79,34,M,Helmet|face mask,Jacket,Pants,Boots,None,No,Gun,None,Crouched,297,74,371,271,Staring
+Law Officer,Black,1.75,44,M,Face mask,Jacket,Pants,Boots,None,No,No,None,Standing,655,35,855,373,Staring
+Law Officer,White,1.73,50,M,Face mask,Shirt,Jeans,Shoes,None,No,No,None,Moving,146,115,249,373,Staring
+Law Officer,Native,1.73,33,M,Face mask,Jacket,Pants,Shoes,None,No,No,None,Moving,239,119,389,497,Staring
+Law Officer,Black,1.70,29,M,Cap|face mask,Jacket,Jeans,Sneakers,None,No,No,None,Moving,624,117,780,492,Staring
+Victim,Native,N.I,N.I,M,None,T-shirt,Pants,N.I,None,No,No,None,Dead,487,178,1016,510,Idle
+Viewer,Black,1.70,45,M,Cap|face mask,T-shirt,Shorts,N.I,None,No,No,None,Moving,128,260,223,517,Idle
+Viewer,White,1.66,26,M,Hat|face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,265,290,352,505,Idle
+Viewer,Native,1.63,35,F,Face mask,Shirt,Jeans,N.I,None,No,No,None,Moving,794,300,852,465,Idle
+Viewer,White,1.75,39,F,Face mask,Blouse,Pants,N.I,None,No,No,None,Moving,853,300,885,484,Idle
+Viewer,Black,1.71,46,F,Face mask,Blouse,Pants,N.I,None,No,No,None,Moving,889,299,945,499,Idle
+Viewer,Black,1.73,26,M,Face mask,Shirt,Pants,Sneakers,None,No,No,None,Moving,984,301,1013,500,Idle
+Viewer,Black,1.60,29,M,Face mask,T-shirt,Pants,Shoes,None,No,No,None,Moving,1020,318,1106,527,Idle
+Viewer,Native,1.66,27,M,Face mask,T-shirt,Pants,Shoes,None,No,No,None,Moving,1063,278,1127,484,Idle
+Law Officer,N.I,1.73,34,M,Face mask,Protective suit,Protective pants,Boots,None,No,No,None,Moving,185,305,286,720,Staring
+Law Officer,N.I,1.70,44,M,Face mask,Protective suit,Protective pants,Boots,None,No,No,None,Moving,306,331,458,649,Staring
+Victim,N.I,N.I,N.I,M,None,T-shirt,Pants,None,None,No,No,None,Still,226,544,703,677,Idle
+Law Officer,N.I,1.72,38,M,Face mask,Protective suit,Protective pants,Boots,None,No,No,None,Moving,603,335,781,690,Working
+Law Officer,White,1.68,46,M,Face mask,Jacket,Jeans,N.I,None,No,No,None,Standing,1083,365,1248,677,Working
+Law Officer,Native,1.69,33,M,Face mask,Jacket,Jeans,Shoes,None,No,No,None,Crouched,314,122,835,601,Working
+Law Officer,Native,1.66,34,M,Face mask,Jacket,Jeans,N.I,None,No,No,None,Crouched,1093,25,1263,457,Working
+Delinquent ,White,1.76,38,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Standing,502,79,780,662,Idle
+Viewer,Native,1.79,23,M,Face mask,Sweater,Shorts,N.I,None,No,No,None,Moving,78,147,181,566,Staring
+Viewer,Native,1.73,22,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Moving,183,188,279,556,Staring
+Viewer,Native,1.69,25,F,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,415,197,493,560,Staring
+Viewer,Native,1.68,24,F,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,457,196,574,570,Staring
+Viewer,Native,1.74,19,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Moving,807,153,922,573,Staring
+Viewer,Native,1.71,22,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Moving,898,151,1059,593,Staring
+Viewer,Native,1.68,18,F,Face mask,T-shirt,Pants,N.I,None,No,No,None,Moving,1022,180,1157,599,Staring
+Delinquent ,Native,1.67,27,M,None,T-shirt,N.I,N.I,None,No,No,None,Still,491,57,901,632,Idle
+Delinquent ,Native,1.69,26,M,Face mask,Jacket,N.I,N.I,None,No,No,None,Standing,22,43,372,720,Idle
+Delinquent ,Native,1.74,28,M,Face mask,Jacket,N.I,N.I,None,No,No,None,Standing,405,35,837,709,Idle
+Delinquent ,Native,1.64,27,M,Face mask,Jacket,N.I,N.I,None,No,No,None,Standing,878,80,1249,708,Idle
+Law Officer,Native,1.68,48,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Standing,1,198,141,699,Working
+Law Officer,White,1.73,53,M,Cap|face mask,Shirt,Pants,N.I,None,No,No,None,Standing,55,175,192,603,Working
+Delinquent ,Native,1.64,23,M,Face mask,Jacket,Jeans,N.I,None,No,No,None,Standing,165,265,328,664,Idle
+Delinquent ,Native,1.66,22,M,Cap|face mask,T-shirt,Jeans,N.I,None,No,No,None,Standing,400,217,522,720,Idle
+Law Officer,Native,1.80,33,M,Cap|face mask,Jacket|sweater,Pants,N.I,None,No,No,None,Crouched,500,290,824,684,Idle
+Delinquent ,Native,1.74,18,M,Face mask,Hoodie,Jeans,N.I,None,No,No,None,Standing,775,179,929,713,Idle
+Law Officer,Black,1.73,42,M,Cap ,T-shirt,Pants,N.I,None,No,No,None,Standing,840,149,1135,720,Idle
+Delinquent ,Black,1.76,38,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,1033,126,1265,717,Idle
+Law Officer,White,1.73,33,M,Beret|face mask,Jacket|shirt,Pants,Boots,None,No,Gun,None,Moving,1,1,93,346,Working
+Delinquent ,White,1.69,40,M,Face mask,T-shirt,Jeans,Shoes,None,No,No,None,Moving,47,1,160,350,Idle
+Law Officer,Native,1.70,29,M,Beret|face mask,Jacket|shirt,Pants,Boots,None,No,Gun,None,Moving,87,41,175,342,Working
+Victim,Native,1.73,23,M,None,Jacket,N.I,N.I,None,No,No,None,Dead,144,7,402,347,Staring
+Viewer,White,1.69,22,F,Glasses|face mask,Blouse,Shorts,Sneakers,None,No,No,None,Still,215,23,281,291,Screaming
+Delinquent ,N.I,1.72,29,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,Gun,None,Moving,148,61,208,300,Stealing
+Delinquent ,N.I,1.72,33,M,None,Sweater,Pants,Sneakers,None,No,Gun,None,Moving,206,104,278,360,Stealing
+Delinquent ,N.I,1.70,28,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,Gun,None,Moving,298,87,371,360,Shooting
+Viewer,White,1.68,26,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Standing,97,65,148,230,Talking
+Law Officer,White,1.70,37,M,Face mask,Jacket,Pants,Shoes,None,No,Gun,None,Moving,239,113,285,297,Working
+Law Officer,Native,1.67,40,M,Face mask,Jacket,Pants,Shoes,None,No,Gun,None,Moving,281,76,335,252,Working
+Viewer,Native,1.65,58,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,120,105,200,298,Staring
+Viewer,Native,1.67,46,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,378,103,480,288,Staring
+Viewer,White,1.63,61,F,Cap|glasses|face mask,Shirt,N.I,N.I,None,No,No,None,Standing,81,24,338,339,Staring
+Viewer,Native,N.I,57,M,None,T-shirt,N.I,N.I,None,No,No,None,Seated,159,32,393,277,Talking
+Delinquent ,N.I,1.70,N.I,M,Helmet,Coat,Pants,N.I,None,No,Gun,None,Moving,532,121,676,297,Stealing
+Delinquent ,N.I,1.73,N.I,M,Helmet,Coat,Pants,N.I,None,No,Gun,None,Moving,762,157,884,377,Stealing
+Victim,Native,1.61,51,F,Face mask,Sweater,Pants,N.I,None,No,No,None,Still,866,187,965,440,Idle
+Law Officer,Native,1.67,32,M,Cap|face mask,Sweater,Pants,Boots,None,No,No,None,Moving,323,126,462,499,Working
+Delinquent ,Black,1.76,29,F,Cap,Sweater,Jeans,Sneakers,None,No,No,None,Moving,470,134,566,493,Idle
+Law Officer,Native,1.68,36,M,Cap|face mask,Sweater,Pants,Boots,None,No,No,None,Moving,536,161,697,496,Working
+Viewer,White,1.75,23,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,527,100,733,497,Idle
+Viewer,Native,1.77,27,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,526,121,736,683,Idle
+Viewer,Native,1.67,34,M,Cap,Sweater,Pants,Sneakers,None,No,No,None,Moving,533,228,824,669,Idle
+Viewer,Native,1.77,27,M,Face shield|face mask,Sweater|backpack,Pants,N.I,None,No,No,None,Moving,520,139,819,720,Idle
+Viewer,Native,1.64,27,F,Cap,Sweater,Joggers,Sneakers,None,No,No,None,Moving,441,130,658,720,Idle
+Delinquent ,White,1.65,40,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Crouched,476,186,1097,697,Idle
+Delinquent ,Native,1.65,36,M,None,Hoodie,N.I,N.I,None,No,No,None,Standing,529,108,844,608,Idle
+Law Officer,Black,1.70,29,M,Beret|face mask,Jacket,N.I,N.I,None,No,No,None,Standing,178,71,539,640,Working
+Law Officer,Native,1.68,37,M,Cap|face mask,Jacket,N.I,N.I,None,No,No,None,Standing,881,65,1187,654,Working
+Law Officer,N.I,1.74,N.I,M,Helmet,Jacket,Pants,N.I,None,No,No,None,Standing,320,426,397,567,Working
+Law Officer,N.I,1.71,N.I,F,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,371,480,435,599,Working
+Law Officer,N.I,1.68,N.I,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,501,464,574,617,Working
+Law Officer,N.I,1.67,N.I,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,574,473,641,588,Working
+Law Officer,N.I,1.69,N.I,F,Face mask,Jacket,Pants,Shoes,None,No,No,None,Standing,620,479,707,610,Working
+Law Officer,N.I,1.74,N.I,M,Face mask,Jacket,Pants,Shoes,None,No,No,None,Standing,622,343,728,510,Working
+Law Officer,N.I,1.64,N.I,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Moving,629,152,701,315,Working
+Delinquent ,Black,1.71,18,M,None,Hoodie,Shorts,Sneakers,None,No,No,None,Moving,685,162,737,345,Talking
+Victim,Native,1.73,45,M,Cap|face mask,Jacket|shirt,Pants,Shoes,None,No,No,None,Still,261,123,349,453,Guarding
+Viewer,White,1.66,18,F,Face mask,Jacket|blouse,Pants,Sneakers,None,No,No,None,Moving,441,71,474,170,Walking
+Viewer,Native,1.59,63,F,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,385,121,474,352,Walking
+Viewer,White,1.62,57,F,Face mask,Sweater,N.I,Sneakers,None,No,No,None,Moving,420,479,658,706,Walking
+Delinquent ,Black,1.71,22,M,Face shield|face mask,Hoodie,Jeans,Sneakers,None,No,Gun,None,Moving,666,256,871,660,Shooting
+Viewer,Native,1.68,24,F,Face shield|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,975,173,1046,399,Walking
+Viewer,Native,1.67,30,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,1054,162,1110,334,Walking
+Viewer,Native,1.54,29,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,1144,219,1188,360,Walking
+Delinquent ,Native,1.73,21,M,Face shield|face mask,Jacket,Joggers,Sneakers,None,No,Gun,None,Moving,1175,266,1248,540,Shooting
+Delinquent ,N.I,1.75,26,M,Helmet,Sweater,Pants,Sneakers,None,No,No,None,Seated,346,147,566,503,Driving
+Delinquent ,White,1.70,23,M,Glasses|face mask,Jacket,Jeans,Sneakers,None,No,Gun,None,Seated,406,82,920,647,Shooting
+Delinquent ,White,1.72,22,M,Face mask,T-shirt,N.I,N.I,Tattoos,No,No,None,Seated,446,30,842,709,Driving
+Law Officer,Native,1.77,43,M,Face mask,Jacket,N.I,N.I,None,No,No,None,Moving,136,110,502,720,Walking
+Delinquent ,White,1.72,23,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,494,197,789,709,Walking
+Law Officer,White,1.74,28,M,Face mask,Jacket,Jeans,N.I,None,No,No,None,Moving,727,147,915,700,Walking
+Law Officer,White,1.67,34,F,Face mask,Jacket,Pants,Shoes,None,No,No,None,Standing,975,261,1071,541,Walking
+Law Officer,Native,1.69,39,M,Cap|face mask,Jacket,Pants,Boots,None,No,No,None,Standing,1068,212,1227,587,Walking
+Viewer,Black,1.72,35,M,Face mask,T-shirt,Pants,Boots,None,No,No,None,Moving,152,109,219,229,Walking
+Delinquent ,N.I,1.73,40,M,None,Coat,N.I,N.I,None,No,No,None,Moving,208,121,236,175,Stealing
+Delinquent ,N.I,1.75,29,M,None,Coat,N.I,N.I,None,No,No,None,Seated,247,120,291,172,Driving
+Delinquent ,N.I,1.68,37,M,Helmet,Sweater|backpack,Jeans,Sneakers,None,No,No,None,Seated,269,125,306,171,Driving
+Delinquent ,N.I,1.70,33,M,Helmet,Sweater|backpack,Pants,Sneakers,None,No,No,None,Moving,341,118,362,173,Stealing
+Viewer,White,1.80,46,M,Face mask,Shirt,Pants,Shoes,None,No,No,None,Still,408,110,484,189,Talking
+Viewer,Native,1.57,23,F,Face mask,Blouse,Jeans,N.I,None,No,No,None,Moving,270,153,370,332,Idle
+Viewer,White,1.73,32,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Standing,251,85,401,341,Walking
+Viewer,Native,1.64,46,F,Face mask,Blouse,Jeans,N.I,None,No,No,None,Moving,423,153,492,341,Walking
+Viewer,White,1.69,51,M,Face shield|face mask,Shirt,Jeans,N.I,None,No,No,None,Moving,432,135,517,307,Walking
+Viewer,Black,1.67,29,F,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Moving,532,131,583,294,Walking
+Viewer,Native,1.66,39,F,Face mask,T-shirt,Pants,N.I,None,No,No,None,Moving,549,146,625,360,Walking
+Viewer,Native,1.62,35,F,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,576,127,629,292,Walking
+Law Officer,Native,1.75,29,M,Cap|face mask,Sweater,Pants,N.I,None,No,Gun,None,Standing,11,86,110,320,Working
+Law Officer,White,1.77,44,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,129,85,242,349,Working
+Law Officer,White,1.70,28,M,Cap|face mask,Jacket,Pants,N.I,None,No,No,None,Standing,186,88,260,294,Working
+Law Officer,Native,1.71,35,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,258,99,356,336,Working
+Law Officer,White,1.74,41,M,Cap|face mask,Jacket,Pants,N.I,None,No,No,None,Standing,321,91,434,310,Working
+Law Officer,White,1.68,38,F,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,440,119,540,293,Working
+Law Officer,Black,1.77,54,M,Face mask,Jacket,Pants,N.I,None,No,No,None,Standing,517,74,625,309,Working
+Delinquent ,Black,1.70,18,M,None,Coat,Pants,Shoes,None,No,No,None,Moving,171,169,294,304,Screaming
+Victim,White,1.72,32,F,None,Sweater,Joggers,Sneakers,None,No,No,None,Standing,257,81,324,188,Stealing
+Delinquent ,N.I,1.73,N.I,M,None,Jacket,Pants,Sneakers,None,No,No,None,Crouched,143,124,216,285,Fighting
+Victim,N.I,1.75,N.I,M,None,Sweater,Pants,Sneakers,None,No,No,None,Crouched,210,142,291,267,Fighting
+Delinquent ,N.I,1.70,N.I,M,None,Jacket,Pants,Sneakers,None,No,No,None,Standing,257,133,356,262,Fighting
+Viewer,N.I,1.72,N.I,M,Helmet,Jacket,Pants,Sneakers,None,No,No,None,Moving,422,10,484,112,Running
+Victim,Native,1.65,31,M,None,T-shirt,Pants,Shoes,None,No,No,None,Still,96,120,135,284,Idle
+Victim,White,1.72,40,M,None,T-shirt,Pants,Shoes,None,No,No,None,Still,132,97,226,280,Idle
+Victim,Native,1.70,52,M,None,T-shirt,Pants,Shoes,None,No,No,None,Still,292,154,369,336,Idle
+Victim,Native,1.67,16,F,None,Sweater,Skirt,Sneakers,None,No,No,None,Still,373,192,426,359,Idle
+Delinquent ,Black,1.75,22,M,Cap,Sweater,Joggers,Sneakers,None,No,Gun,None,Moving,404,199,479,357,Stealing
+Victim,Black,1.63,15,F,None,Sweater,Skirt,Shoes,None,No,No,None,Seated,442,217,520,352,Idle
+Aggressor,Black,1.67,28,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,262,44,322,299,Fighting
+Victim,Black,1.68,31,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,289,42,389,279,Fighting
+Delinquent ,N.I,1.76,33,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,95,146,188,350,Idle
+Victim,N.I,1.74,27,M,None,Coat|backpack,Joggers,N.I,None,No,No,None,Standing,124,138,276,319,Stealing
+Delinquent ,Black,1.70,23,M,None,Coat|backpack,Joggers,Sneakers,None,No,Gun,None,Moving,202,157,295,283,Stealing
+Delinquent ,Black,1.68,25,M,None,Coat|backpack,Jeans,Sneakers,None,No,Gun,None,Moving,451,171,507,285,Stealing
+Delinquent ,Black,1.72,29,M,None,Sweater,Joggers,Sneakers,None,No,Gun,None,Moving,301,32,403,159,Stealing
+Viewer,Native,1.64,63,F,None,Blouse,Pants,Shoes,None,No,No,None,Standing,53,136,124,285,Idle
+Viewer,White,1.72,19,M,Face mask,T-shirt|backpack,Pants,Sneakers,None,No,No,None,Moving,433,111,502,264,Idle
+Delinquent ,White,1.70,41,M,Cap,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,409,138,487,347,Stealing
+Victim,Native,1.67,29,F,None,Blouse,Jeans,Shoes,None,No,No,None,Standing,475,138,535,356,Idle
+Aggressor,Black,1.70,33,M,Beanie ,Sweater,Shorts,Sneakers,None,No,No,None,Standing,249,77,358,266,Fighting
+Aggressor,White,1.70,31,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,331,77,439,289,Fighting
+Delinquent ,N.I,1.78,27,M,Beanie,Sweater,Joggers,Sneakers,None,No,No,None,Standing,210,46,285,230,Fighting
+Delinquent ,N.I,1.74,24,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Standing,248,42,337,195,Fighting
+Victim,N.I,1.75,32,M,Cap,T-shirt,Joggers,Sneakers,None,No,No,None,Standing,298,81,402,258,Fighting
+Victim,White,1.72,27,F,None,Blouse,Skirt,Sneakers,Tattoos,No,No,None,Standing,474,35,806,682,Idle
+Viewer,White,1.76,29,M,Glasses,Sweater,N.I,N.I,None,No,No,None,Standing,272,57,658,638,Idle
+Victim,White,1.72,27,F,None,Blouse,N.I,N.I,Tattoos,No,No,None,Standing,555,95,1006,674,Idle
+Law Officer,Native,1.79,43,M,None,Shirt,Pants,N.I,None,No,Gun,None,Crouched,323,284,620,679,Carrying
+Law Officer,Black,1.77,34,M,Cap,T-shirt,Pants,N.I,None,No,No,None,Crouched,583,270,867,590,Carrying
+Law Officer,Native,1.73,39,M,None,Jacket,Pants,N.I,None,No,No,None,Crouched,33,122,228,617,Carrying
+Law Officer,Native,1.67,33,M,None,Jacket,Pants,N.I,None,No,Gun,None,Crouched,111,73,379,605,Carrying
+Law Officer,Native,1.70,31,M,None,Jacket,Pants,N.I,None,No,No,None,Standing,383,158,718,658,Carrying
+Law Officer,Black,1.71,29,M,Cap,Jacket,Pants,Shoes,None,No,Gun,None,Standing,616,132,848,647,Carrying
+Law Officer,Black,1.68,36,M,None,Shirt,Pants,Shoes,None,No,Gun,None,Standing,707,113,1148,653,Carrying
+Law Officer,Native,1.72,29,M,Cap,Shirt,Pants,N.I,None,No,Gun,None,Standing,1019,157,1258,575,Carrying
+Law Officer,White,1.75,43,M,None,Jacket,Pants,N.I,None,No,Gun,None,Standing,510,83,875,644,Carrying
+Law Officer,White,1.70,27,M,Beret,Jacket,Pants,N.I,None,No,Gun,None,Standing,727,21,1175,658,Carrying
+Law Officer,Native,1.69,26,M,Cap,T-shirt,Jeans,N.I,None,No,Gun,None,Standing,10,147,178,544,Carrying
+Law Officer,White,1.77,33,M,None,T-shirt,Jeans,N.I,None,No,Gun,None,Standing,115,177,731,380,Carrying
+Law Officer,Native,1.73,34,M,Cap,Shirt,Pants,N.I,None,No,No,None,Standing,605,15,876,208,Working
+Law Officer,White,1.78,36,M,None,Shirt,Pants,N.I,None,No,No,None,Standing,26,351,188,621,Working
+Viewer,Black,1.73,34,M,Glasses ,T-shirt,N.I,N.I,None,No,No,None,Moving,211,193,380,547,Walking
+Viewer,Black,1.71,41,M,None,T-shirt,N.I,N.I,None,No,No,None,Moving,266,239,553,669,Walking
+Viewer,Black,1.70,18,M,Cap,T-shirt,Jeans,Sneakers,None,No,No,None,Crawling,684,248,887,521,Idle
+Viewer,Black,1.68,21,M,Cap,T-shirt,Shorts,Sneakers,None,No,No,None,Crawling,689,477,950,587,Idle
+Viewer,Native,1.65,18,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Crawling,257,279,435,640,Idle
+Law Officer,Native,1.68,34,M,Cap,T-shirt,Pants,N.I,None,No,No,None,Crouched,835,260,965,496,Working
+Law Officer,White,1.71,45,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Crouched,816,434,1120,496,Working
+Law Officer,Black,1.72,40,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Crouched,749,488,1161,574,Working
+Law Officer,Black,1.68,39,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Crouched,211,191,353,380,Working
+Viewer,Black,1.70,24,M,Cap,T-shirt,Jeans,Sneakers,None,No,No,None,Crawling,510,169,831,321,Idle
+Law Officer,White,1.71,37,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,398,113,568,243,Working
+Law Officer,Black,1.73,35,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,679,58,801,256,Working
+Viewer,White,1.65,24,M,Cap,T-shirt,Jeans,Sneakers,None,No,No,None,Crawling,816,149,1037,528,Idle
+Viewer,Native,1.68,28,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Crawling,103,135,322,530,Idle
+Viewer,Native,1.70,23,F,None,Bikini,Bikini,None,None,No,No,None,Standing,329,396,663,513,Idle
+Viewer,White,1.64,25,F,None,Blouse,Shorts,Sneakers,None,No,No,None,Crawling,596,366,907,466,Idle
+Viewer,White,1.68,27,F,None,Blouse,Shorts,Sneakers,None,No,No,None,Crawling,528,432,893,523,Idle
+Law Officer,Black,1.71,31,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Crouched,370,200,557,562,Working
+Law Officer,Native,1.73,27,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Standing,205,126,374,336,Working
+Law Officer,Native,1.71,32,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,178,152,1187,664,Working
+Viewer,Native,1.65,18,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Crawling,245,86,442,469,Idle
+Viewer,Native,1.67,18,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Crawling,340,25,511,374,Idle
+Viewer,Native,1.62,22,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Crawling,480,54,746,488,Idle
+Law Officer,N.I,1.70,33,M,Helmet,Jacket,Pants,Boots,None,No,Gun,None,Moving,561,17,758,584,Talking
+Law Officer,N.I,1.68,41,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Moving,733,30,950,575,Talking
+Viewer,White,N.I,26,F,Glasses,Blouse,Skirt,N.I,None,No,No,None,Crawling,952,57,1202,682,Walking
+Victim,White,1.73,40,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,206,64,334,261,Idle
+Delinquent ,Black,1.78,34,M,Cap|face mask,Coat,Joggers,Sneakers,None,No,Gun,None,Moving,345,19,410,191,Stealing
+Viewer,White,1.66,19,F,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,416,50,465,172,Running
+Delinquent ,Native,1.72,29,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,Gun,None,Standing,298,46,334,133,Stealing
+Victim,White,1.70,46,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,370,121,440,251,Idle
+Viewer,Native,1.69,22,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,No,None,Standing,436,99,494,196,Driving
+Viewer,White,1.70,54,M,None,Coat|shirt,N.I,N.I,None,No,No,None,Standing,140,37,346,217,Driving
+Delinquent ,Black,1.83,31,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,84,82,114,171,Stealing
+Delinquent ,Black,1.75,37,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,94,77,155,188,Stealing
+Delinquent ,Native,1.68,18,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,177,146,239,288,Fighting
+Delinquent ,Native,1.70,19,M,Cap,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,330,156,377,255,Fighting
+Delinquent ,Native,1.67,26,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,301,155,325,225,Fighting
+Delinquent ,Native,1.72,23,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,221,153,236,188,Fighting
+Delinquent ,Native,1.77,25,M,None,Sweater,Joggers,Sneakers,None,No,No,None,Moving,247,158,273,198,Fighting
+Delinquent ,Black,1.68,18,M,None,Coat,Shorts,Sneakers,None,No,No,None,Moving,186,16,245,161,Fighting
+Viewer,Native,1.71,17,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,237,17,267,115,Running
+Viewer,Native,1.65,19,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,272,8,296,110,Running
+Viewer,Black,1.73,23,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,306,5,341,170,Running
+Viewer,Native,1.66,16,M,None,Coat|backpack,Joggers,Sneakers,None,No,No,None,Moving,213,91,258,268,Running
+Viewer,White,1.77,21,M,Cap,Sweater,Joggers,Sneakers,None,No,No,None,Moving,264,96,293,191,Running
+Viewer,Black,1.71,26,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,288,104,309,168,Running
+Delinquent ,Black,1.71,27,M,Cap,Coat,Joggers,Sneakers,None,No,No,None,Moving,297,131,352,222,Fighting
+Delinquent ,White,1.71,22,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,322,106,336,144,Fighting
+Victim,Native,1.70,26,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,264,107,359,323,Fighting
+Law Officer,Native,1.76,48,M,None,Sweater,Pants,Boots,None,No,No,None,Moving,201,122,265,294,Guarding
+Viewer,White,1.80,34,M,Cap,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,260,51,323,259,Encouraging
+Viewer,Native,1.68,29,M,Cap,Sweater,Pants,Shoes,None,No,No,None,Standing,298,52,345,204,Encouraging
+Viewer,Native,1.70,18,M,None,Coat,N.I,N.I,None,No,No,None,Standing,26,189,121,341,Encouraging
+Viewer,Native,1.71,63,M,None,Sweater,N.I,N.I,None,No,No,None,Standing,112,218,209,342,Encouraging
+Viewer,Native,1.74,57,M,None,Jacket,N.I,N.I,None,No,No,None,Standing,198,217,296,353,Encouraging
+Viewer,White,1.68,22,M,None,Jacket,N.I,N.I,None,No,No,None,Standing,297,206,395,344,Encouraging
+Viewer,White,1.77,24,F,None,Sweater,N.I,N.I,None,No,No,None,Standing,185,111,247,217,Encouraging
+Viewer,Native,1.70,30,M,None,Sweater,N.I,N.I,None,No,No,None,Standing,13,44,83,177,Encouraging
+Viewer,Native,1.72,29,M,None,Coat,N.I,N.I,None,No,No,None,Standing,344,34,430,175,Encouraging
+Viewer,White,1.73,21,M,None,Coat,N.I,N.I,None,No,No,None,Standing,449,7,532,199,Encouraging
+Viewer,White,1.75,26,M,None,Coat,N.I,N.I,None,No,No,None,Standing,466,110,534,309,Encouraging
+Viewer,Native,1.76,22,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,35,271,62,346,Encouraging
+Viewer,Native,1.74,26,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,53,257,90,344,Encouraging
+Viewer,Black,N.I,48,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,65,242,98,334,Encouraging
+Viewer,Native,1.69,50,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,90,241,114,319,Encouraging
+Viewer,Native,1.67,61,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,25,236,48,272,Encouraging
+Viewer,Black,1.73,41,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,58,215,85,268,Encouraging
+Viewer,Native,1.67,50,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,82,218,107,281,Encouraging
+Viewer,White,1.72,36,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,98,213,119,289,Encouraging
+Viewer,Black,1.68,29,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,111,216,138,301,Encouraging
+Viewer,Native,1.66,35,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,125,205,153,282,Encouraging
+Viewer,Native,1.70,32,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,20,197,47,274,Encouraging
+Viewer,White,1.74,28,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,36,204,57,265,Encouraging
+Viewer,White,1.70,45,F,None,T-shirt,Pants,N.I,None,No,No,None,Standing,75,197,90,255,Encouraging
+Viewer,Native,1.76,47,F,None,Sweater,Shorts,N.I,None,No,No,None,Standing,86,193,104,258,Encouraging
+Law Officer,Native,1.73,35,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,104,188,115,257,Guarding
+Law Officer,Black,1.70,28,F,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,113,179,144,264,Guarding
+Law Officer,Black,1.70,27,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,146,174,173,259,Guarding
+Law Officer,White,1.68,28,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,136,156,174,214,Guarding
+Viewer,Black,1.58,26,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,162,226,182,263,Encouraging
+Viewer,White,1.73,30,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,176,224,206,273,Encouraging
+Viewer,Native,1.69,32,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,199,242,236,293,Encouraging
+Viewer,Native,1.67,27,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,216,226,249,273,Encouraging
+Viewer,White,1.65,38,M,Cap,T-shirt,Pants,N.I,None,No,No,None,Standing,240,204,262,284,Encouraging
+Viewer,White,1.68,27,M,Cap,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,255,238,279,288,Encouraging
+Viewer,Black,1.68,33,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,272,249,295,295,Encouraging
+Viewer,Native,1.73,41,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,274,325,312,353,Encouraging
+Viewer,Native,1.70,43,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,286,239,303,272,Encouraging
+Viewer,Native,1.68,32,F,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,302,240,329,276,Encouraging
+Viewer,Native,1.70,35,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,326,240,356,266,Encouraging
+Viewer,Native,1.73,30,F,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,356,247,386,298,Encouraging
+Viewer,N.I,1.68,20,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,371,234,394,265,Encouraging
+Viewer,N.I,1.70,25,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Standing,395,235,426,291,Encouraging
+Viewer,White,1.70,21,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,197,204,216,224,Encouraging
+Viewer,White,1.68,19,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,217,189,245,260,Encouraging
+Viewer,Black,1.75,16,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,235,176,249,235,Encouraging
+Viewer,White,1.69,19,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,247,175,271,203,Encouraging
+Law Officer,Black,1.72,32,F,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,278,186,309,240,Guarding
+Law Officer,Black,1.70,36,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,315,185,335,233,Guarding
+Viewer,Black,1.64,45,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,335,180,367,227,Encouraging
+Viewer,N.I,1.72,19,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,367,193,384,238,Encouraging
+Viewer,N.I,1.74,22,F,None,Sweater,Jeans,N.I,None,No,No,None,Standing,388,195,410,238,Encouraging
+Viewer,Black,1.68,29,F,None,Sweater,Jeans,N.I,None,No,No,None,Standing,412,203,440,275,Encouraging
+Viewer,Black,1.66,29,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,424,202,454,266,Encouraging
+Viewer,Native,1.70,26,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,426,175,457,240,Encouraging
+Viewer,Native,1.70,29,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,391,171,415,205,Encouraging
+Viewer,Native,1.71,41,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,375,164,385,188,Encouraging
+Viewer,Black,1.70,39,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,338,156,359,177,Encouraging
+Viewer,Black,1.69,37,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,277,145,306,174,Encouraging
+Viewer,White,1.70,54,F,Cap,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,248,147,265,175,Encouraging
+Viewer,White,1.71,51,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,170,153,204,208,Encouraging
+Viewer,Native,1.70,23,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,193,140,226,214,Encouraging
+Viewer,Native,1.76,18,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,218,135,244,199,Encouraging
+Viewer,White,1.72,19,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,231,127,263,179,Encouraging
+Viewer,N.I,1.75,26,F,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,217,58,242,103,Encouraging
+Viewer,N.I,1.73,23,F,Cap,Sweater,Jeans,N.I,None,No,No,None,Standing,216,103,238,144,Encouraging
+Viewer,N.I,1.73,25,M,Cap,Sweater,Jeans,N.I,None,No,No,None,Standing,255,88,271,136,Encouraging
+Viewer,White,1.80,18,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,270,63,297,123,Encouraging
+Viewer,White,1.72,17,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,282,97,299,149,Encouraging
+Viewer,Native,1.73,19,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,290,84,306,123,Encouraging
+Law Officer,Native,1.68,27,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,314,87,339,132,Guarding
+Law Officer,Native,1.72,33,F,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,342,88,357,129,Guarding
+Viewer,White,1.71,21,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,351,115,374,155,Encouraging
+Viewer,Native,1.69,26,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,365,127,386,164,Encouraging
+Viewer,N.I,1.75,27,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,384,80,398,104,Encouraging
+Viewer,White,1.78,22,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,367,75,385,99,Encouraging
+Viewer,Native,1.70,26,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,361,87,380,119,Encouraging
+Viewer,White,1.68,48,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,395,95,413,140,Encouraging
+Viewer,Native,1.72,34,F,None,T-shirt,Pants,N.I,None,No,No,None,Standing,408,94,436,146,Encouraging
+Viewer,Native,1.70,29,M,Cap,T-shirt,Pants,N.I,None,No,No,None,Standing,4,287,38,352,Encouraging
+Viewer,Native,1.68,18,F,Cap,T-shirt,Pants,N.I,None,No,No,None,Standing,438,92,457,131,Encouraging
+Viewer,Black,1.75,26,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,451,117,479,166,Encouraging
+Viewer,Native,1.70,57,F,None,Sweater,Pants,N.I,None,No,No,None,Standing,479,136,512,210,Encouraging
+Viewer,Native,1.72,22,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,506,99,531,159,Encouraging
+Viewer,Black,1.66,24,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,407,67,430,101,Encouraging
+Viewer,Black,1.68,30,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,433,71,453,100,Encouraging
+Viewer,Native,1.75,29,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,449,75,476,122,Encouraging
+Law Officer,Native,1.73,27,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,469,77,498,128,Guarding
+Law Officer,Black,1.70,29,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,339,51,365,87,Guarding
+Viewer,Native,1.67,19,F,None,Sweater,Jeans,N.I,None,No,No,None,Standing,392,44,410,87,Encouraging
+Viewer,Black,1.72,18,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,410,47,433,86,Encouraging
+Viewer,Black,1.70,19,F,Cap,Sweater,Jeans,N.I,None,No,No,None,Standing,461,62,510,123,Encouraging
+Viewer,Native,1.73,19,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,176,68,196,94,Encouraging
+Law Officer,Native,1.70,46,F,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,142,93,165,141,Guarding
+Law Officer,Black,1.69,37,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,114,103,145,144,Guarding
+Viewer,White,1.70,20,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,106,75,132,119,Encouraging
+Viewer,Native,1.65,26,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,97,82,114,127,Encouraging
+Viewer,Black,1.68,24,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,39,89,50,124,Encouraging
+Viewer,White,1.70,26,M,Cap,T-shirt,Pants,N.I,None,No,No,None,Standing,59,73,101,135,Encouraging
+Viewer,Native,1.69,23,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,94,60,125,89,Encouraging
+Viewer,Black,1.72,22,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,128,52,150,85,Encouraging
+Viewer,Black,1.71,22,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,248,29,274,82,Encouraging
+Viewer,Native,1.66,47,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,273,31,287,76,Encouraging
+Law Officer,Native,1.68,50,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,293,33,316,84,Guarding
+Viewer,Native,1.67,36,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,306,28,327,97,Encouraging
+Viewer,Native,1.70,39,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,4,327,18,360,Encouraging
+Viewer,Native,1.80,19,M,Cap,T-shirt,Jeans,N.I,None,No,No,None,Standing,18,323,33,360,Encouraging
+Viewer,Native,1.75,32,M,Cap,Sports T-shirt,Jeans,N.I,None,No,No,None,Standing,43,329,74,359,Encouraging
+Viewer,Native,1.73,19,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,86,332,114,356,Encouraging
+Viewer,Black,1.72,22,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,105,332,125,352,Encouraging
+Viewer,Native,1.68,27,M,None,Sports T-shirt,Jeans,N.I,None,No,No,None,Standing,133,318,157,358,Encouraging
+Viewer,Native,1.70,30,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,22,257,40,301,Encouraging
+Viewer,White,1.75,28,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,44,262,65,297,Encouraging
+Viewer,Native,1.75,26,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,7,233,28,274,Encouraging
+Viewer,White,1.79,44,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,30,250,65,293,Encouraging
+Viewer,White,1.71,46,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,25,210,43,256,Encouraging
+Viewer,White,1.70,35,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,81,218,104,253,Encouraging
+Viewer,Native,1.67,52,M,None,Coat,Pants,N.I,None,No,No,None,Standing,115,222,146,276,Encouraging
+Viewer,Native,1.65,38,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,129,240,168,294,Encouraging
+Viewer,Native,1.78,25,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,159,245,216,323,Encouraging
+Viewer,White,1.73,25,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,182,257,218,320,Encouraging
+Viewer,White,1.80,31,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Standing,190,263,237,323,Encouraging
+Viewer,Black,1.75,36,M,Cap,Sweater,Jeans,N.I,None,No,No,None,Standing,223,241,254,294,Encouraging
+Law Officer,Black,1.76,36,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,203,216,218,263,Guarding
+Viewer,Black,1.71,34,M,Cap,Sweater,Jeans,N.I,None,No,No,None,Standing,133,190,147,223,Encouraging
+Viewer,Native,1.75,44,M,Cap,Coat,Pants,N.I,None,No,No,None,Standing,77,192,95,225,Encouraging
+Viewer,Native,1.67,50,F,Cap,Sweater,Pants,N.I,None,No,No,None,Standing,95,187,113,230,Encouraging
+Law Officer,Black,1.68,33,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,126,190,149,227,Guarding
+Law Officer,White,1.73,29,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,133,188,164,245,Guarding
+Law Officer,White,1.75,30,M,Helmet,Sweater,Jeans,N.I,None,No,Other,None,Standing,186,200,207,230,Guarding
+Viewer,Native,1.70,45,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,189,191,198,216,Encouraging
+Viewer,Black,1.72,26,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,166,185,171,216,Encouraging
+Viewer,Native,1.70,35,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,177,179,177,211,Encouraging
+Viewer,Native,1.76,39,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,185,173,192,203,Encouraging
+Viewer,Native,1.64,46,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,138,151,142,181,Encouraging
+Viewer,White,1.70,26,F,None,Sports T-shirt,Jeans,N.I,None,No,No,None,Standing,150,156,158,194,Encouraging
+Viewer,White,1.72,26,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,163,164,166,194,Encouraging
+Viewer,Black,1.73,30,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,79,153,95,192,Encouraging
+Viewer,Black,1.80,28,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,61,180,72,210,Encouraging
+Viewer,Native,1.65,27,M,None,Coat,Pants,N.I,None,No,No,None,Standing,42,158,51,204,Encouraging
+Viewer,N.I,1.63,30,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,47,162,62,205,Encouraging
+Law Officer,Native,1.68,28,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,23,154,37,182,Guarding
+Law Officer,Native,1.75,34,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,35,118,51,162,Guarding
+Law Officer,Native,1.81,35,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,20,120,33,167,Guarding
+Law Officer,Native,1.66,35,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,53,115,74,168,Guarding
+Law Officer,Native,1.64,37,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,120,122,137,174,Guarding
+Law Officer,Native,1.70,48,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,97,113,108,148,Guarding
+Law Officer,Native,1.78,49,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,96,103,107,148,Guarding
+Viewer,Black,1.75,19,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,91,86,104,148,Encouraging
+Viewer,Asian,1.70,22,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,71,93,85,142,Encouraging
+Viewer,Native,1.83,35,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Standing,65,77,83,113,Encouraging
+Viewer,Black,1.76,18,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,56,68,76,110,Encouraging
+Viewer,Black,1.67,22,M,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,49,75,64,110,Encouraging
+Viewer,Black,1.67,26,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,10,95,27,141,Encouraging
+Viewer,Native,1.70,30,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,40,64,62,108,Encouraging
+Viewer,Black,1.77,34,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,18,64,42,118,Encouraging
+Viewer,Black,1.80,34,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,8,61,16,91,Encouraging
+Viewer,Native,1.80,26,M,Cap,T-shirt,Pants,N.I,None,No,No,None,Standing,117,76,138,116,Encouraging
+Viewer,Black,1.68,29,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,139,85,153,115,Encouraging
+Law Officer,Native,1.82,50,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,154,88,163,135,Guarding
+Law Officer,Native,1.73,31,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,172,86,188,118,Guarding
+Law Officer,White,1.75,38,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,182,99,202,133,Guarding
+Viewer,Black,1.71,30,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,194,109,206,144,Encouraging
+Viewer,Native,1.82,26,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Standing,206,124,216,159,Encouraging
+Viewer,Native,1.75,19,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,228,127,243,163,Encouraging
+Viewer,White,1.71,42,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,235,128,255,164,Encouraging
+Viewer,White,1.77,45,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,203,93,230,126,Encouraging
+Viewer,Native,1.70,37,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,171,60,189,89,Encouraging
+Viewer,Native,1.65,38,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,273,151,287,185,Encouraging
+Viewer,Native,1.73,26,M,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,266,177,287,208,Encouraging
+Viewer,White,1.71,28,F,None,Sports T-shirt,Pants,N.I,None,No,No,None,Standing,284,180,302,215,Encouraging
+Viewer,Native,1.80,28,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,243,232,254,262,Encouraging
+Viewer,White,1.75,19,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,250,245,274,282,Encouraging
+Viewer,White,1.73,23,M,Cap,Sweater,Shorts,N.I,None,No,No,None,Standing,273,244,281,279,Encouraging
+Law Officer,Native,1.72,46,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,255,324,269,347,
+Law Officer,White,1.68,47,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,240,327,257,354,Guarding
+Law Officer,Black,1.70,37,F,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,279,319,297,348,Guarding
+Law Officer,Native,1.75,34,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,312,324,319,348,Guarding
+Law Officer,Native,1.75,33,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,294,223,317,263,Guarding
+Law Officer,Black,1.79,33,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,327,216,350,267,Guarding
+Law Officer,Native,1.71,51,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,319,193,342,234,Guarding
+Law Officer,Native,1.70,39,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,307,180,320,206,Guarding
+Viewer,Native,1.67,27,M,None,Coat,Jeans,N.I,None,No,No,None,Standing,331,185,345,223,Encouraging
+Viewer,White,1.65,34,M,Cap,Sweater,Jeans,N.I,None,No,No,None,Standing,351,201,368,229,Encouraging
+Viewer,Native,1.78,35,M,Cap,T-shirt,Jeans,N.I,None,No,No,None,Standing,358,198,379,236,Encouraging
+Viewer,White,1.73,30,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,369,210,385,239,Encouraging
+Viewer,Native,1.80,18,F,None,T-shirt,Jeans,N.I,None,No,No,None,Standing,391,199,401,226,Encouraging
+Viewer,Native,1.75,17,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,396,203,407,230,Encouraging
+Viewer,Native,1.73,22,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,423,204,441,235,Encouraging
+Viewer,Native,1.75,29,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,269,69,288,112,Encouraging
+Viewer,Black,1.78,26,M,None,T-shirt,Pants,N.I,None,No,No,None,Standing,276,78,288,118,Encouraging
+Viewer,White,1.79,23,M,None,Sweater,Pants,N.I,None,No,No,None,Standing,302,73,313,107,Encouraging
+Viewer,Black,1.71,36,M,Cap,Coat,Shorts,N.I,None,No,No,None,Standing,315,77,330,117,Encouraging
+Viewer,Black,1.66,35,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,319,77,336,120,Encouraging
+Viewer,Black,1.68,42,M,Cap,Sweater,Shorts,N.I,None,No,No,None,Standing,341,94,362,126,Encouraging
+Viewer,Native,1.70,45,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Standing,444,183,455,219,Encouraging
+Viewer,Black,1.65,46,M,None,Sweater,Jeans,N.I,None,No,No,None,Standing,474,273,484,310,Encouraging
+Law Officer,Black,1.73,35,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,88,57,123,179,Guarding
+Law Officer,Native,1.70,34,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,113,71,132,189,Guarding
+Law Officer,Native,1.68,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,125,74,153,189,Guarding
+Law Officer,Native,1.70,31,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,154,90,179,217,Guarding
+Law Officer,Black,1.73,27,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,174,94,195,211,Guarding
+Law Officer,Black,1.68,36,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,185,115,220,237,Guarding
+Law Officer,Black,1.70,42,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,226,118,245,250,Guarding
+Law Officer,White,1.70,45,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,238,135,285,262,Guarding
+Law Officer,Black,1.68,51,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,308,133,345,256,Guarding
+Law Officer,Native,1.75,31,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,289,110,312,238,Guarding
+Law Officer,Native,1.69,38,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,274,104,304,220,Guarding
+Law Officer,White,1.72,36,F,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,243,106,274,210,Guarding
+Law Officer,White,1.70,29,F,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,237,86,262,187,Guarding
+Law Officer,Black,1.64,26,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,212,77,231,194,Guarding
+Law Officer,Native,1.72,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,194,62,212,169,Guarding
+Law Officer,White,1.74,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,242,49,255,155,Guarding
+Law Officer,Native,1.68,31,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,262,66,281,172,Guarding
+Law Officer,Black,1.66,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,286,62,315,177,Guarding
+Law Officer,White,1.70,39,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,313,81,335,199,Guarding
+Law Officer,White,1.70,46,F,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,336,94,359,205,Guarding
+Law Officer,White,1.71,51,M,Helmet,Sweater,Pants,N.I,None,No,Other,None,Standing,348,112,381,239,Guarding
+Law Officer,Native,1.70,50,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,374,129,416,260,Guarding
+Law Officer,Native,1.69,42,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,413,94,447,229,Guarding
+Delinquent ,Native,1.70,21,M,None,Sweater,Jeans,Sneakers,None,No,Other,None,Moving,238,192,256,225,Running
+Delinquent ,Native,1.68,22,M,Cap,Sweater,Pants,Sneakers,None,No,Other,None,Moving,263,217,279,247,Running
+Delinquent ,Native,1.69,23,M,None,Sweater,Pants,Sneakers,None,No,Other,None,Moving,271,186,288,228,Running
+Delinquent ,Native,1.73,27,M,Cap,Jacket,Pants,Sneakers,None,No,Other,None,Moving,302,206,318,256,Running
+Delinquent ,Native,1.75,26,M,Cap,T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,320,230,339,276,Running
+Delinquent ,N.I,1.77,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,338,194,352,240,Running
+Delinquent ,N.I,1.71,19,M,None,Sports T-shirt,Joggers,Sneakers,None,No,Other,None,Moving,309,171,321,195,Running
+Delinquent ,N.I,1.68,26,M,None,Jacket,Pants,Sneakers,None,No,Other,None,Moving,217,209,256,312,Running
+Delinquent ,N.I,1.73,23,M,None,Hoodie,Joggers,Sneakers,None,No,Other,None,Moving,316,201,347,298,Running
+Delinquent ,White,1.75,27,M,None,Jacket,Pants,Sneakers,None,No,Other,None,Moving,252,194,282,300,Running
+Delinquent ,Native,1.78,25,M,None,Sweater,Shorts,Sneakers,None,No,Other,None,Moving,280,195,303,262,Running
+Delinquent ,Black,1.69,26,M,None,Sweater,Jeans,Sneakers,None,No,Other,None,Moving,171,148,207,248,Running
+Delinquent ,Black,1.67,19,M,None,Sweater,Jeans,Sneakers,None,No,Other,None,Moving,209,146,242,229,Running
+Viewer,Black,1.71,18,F,None,Sweater,Jeans,Sneakers,None,No,Other,None,Moving,104,139,121,229,Walking
+Viewer,White,1.72,21,M,None,Sweater,Jeans,Sneakers,None,No,Other,None,Moving,133,135,154,225,Walking
+Law Officer,Native,1.80,37,M,None,Jacket,Pants,Boots,None,No,Other,None,Moving,297,140,330,231,Walking
+Delinquent ,White,1.75,32,M,None,Sweater,Joggers,Sneakers,None,No,Other,None,Moving,398,130,437,260,Running
+Delinquent ,Black,1.77,27,F,None,Sweater,Joggers,Sneakers,None,No,Other,None,Moving,432,127,477,252,Running
+Viewer,Black,1.71,30,M,None,T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,95,180,154,292,Walking
+Delinquent ,Native,1.75,25,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,317,186,338,252,Fighting
+Delinquent ,Native,1.70,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,364,171,401,263,Fighting
+Delinquent ,Native,1.68,21,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,401,174,421,238,Fighting
+Delinquent ,Native,1.66,26,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,424,179,441,253,Fighting
+Viewer,White,1.72,29,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,140,146,199,292,Walking
+Viewer,Black,1.70,24,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,194,144,252,275,Walking
+Viewer,Native,1.82,19,M,None,T-shirt,Joggers,Sneakers,None,No,Other,None,Moving,404,139,434,217,Walking
+Viewer,Native,1.67,42,M,Tied T-shirt,T-shirt,Pants,N.I,None,No,Other,None,Moving,216,395,298,391,Walking
+Law Officer,White,1.75,38,M,Cap,Shirt,Pants,N.I,None,No,Other,None,Moving,292,348,403,697,Walking
+Viewer,Native,1.71,29,M,None,T-shirt|backpack,Shorts,Sneakers,None,No,Other,None,Moving,680,391,794,703,Walking
+Viewer,Native,1.68,31,M,Cap,T-shirt|backpack,Shorts,Sneakers,None,No,Other,None,Moving,878,404,1015,683,Walking
+Aggressor,Native,1.65,28,M,None,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,74,514,245,700,Fighting
+Aggressor,Native,1.69,26,M,None,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,228,410,393,708,Fighting
+Law Officer,Native,1.72,23,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Moving,459,451,639,661,Walking
+Aggressor,Native,1.70,29,M,Cap,Shirt,N.I,N.I,None,No,No,None,Moving,615,349,701,593,Fighting
+Law Officer,Native,1.74,32,M,Cap,Jacket,Pants,Boots,None,No,No,None,Standing,19,390,142,643,Guarding
+Viewer,Native,1.68,28,M,None,T-shirt,N.I,N.I,None,No,No,None,Moving,242,438,476,682,Walking
+Viewer,White,1.73,23,M,None,T-shirt|backpack,N.I,N.I,None,No,No,None,Moving,672,228,859,595,Walking
+Viewer,Native,1.66,26,M,Glasses,N.I,N.I,N.I,None,No,No,None,Moving,837,413,1194,675,Walking
+Law Officer,Native,1.79,33,M,Cap,Jacket,Pants,Boots,None,No,No,None,Standing,536,280,661,487,Guarding
+Law Officer,Native,1.75,41,M,Cap,Jacket,N.I,N.I,None,No,No,None,Standing,675,22,1146,664,Guarding
+Viewer,Native,1.67,19,M,None,T-shirt|backpack,N.I,N.I,None,No,No,None,Standing,136,13,632,652,Idle
+Law Officer,Native,1.72,21,M,Cap,Jacket,N.I,N.I,None,No,No,None,Standing,587,265,796,623,Guarding
+Viewer,White,1.74,26,M,Glasses,T-shirt|backpack,N.I,N.I,None,No,No,None,Moving,559,225,780,696,Walking
+Viewer,Black,1.70,22,M,Glasses,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,767,284,944,639,Walking
+Viewer,Native,1.62,16,M,Glasses,Sports T-shirt,Shorts,N.I,None,No,No,None,Moving,129,212,258,487,Walking
+Viewer,Native,1.70,22,M,Cap|face mask,Sports T-shirt,Shorts,N.I,None,No,No,None,Moving,280,196,759,714,Walking
+Viewer,Native,1.68,17,M,None,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,903,384,997,695,Walking
+Viewer,Native,1.70,21,F,Cap,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,962,322,1268,700,Walking
+Viewer,Native,1.71,22,M,Cap,Sports T-shirt,Joggers,N.I,None,No,No,None,Moving,165,343,240,586,Walking
+Viewer,Native,1.81,26,M,Cap,Sports T-shirt,Joggers,N.I,None,No,No,None,Moving,496,371,628,625,Walking
+Viewer,Native,1.65,28,M,None,Sports T-shirt,Joggers,N.I,None,No,No,None,Moving,691,380,784,675,Walking
+Viewer,Native,1.67,35,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Moving,778,362,879,671,Walking
+Viewer,Native,1.69,31,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Moving,915,366,1009,660,Walking
+Viewer,Native,1.68,28,M,None,T-shirt,Joggers,N.I,None,No,No,None,Moving,1022,425,1249,683,Walking
+Viewer,Native,1.65,25,F,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,535,314,781,691,Idle
+Law Officer,Native,1.73,38,M,Beret,Jacket,Pants,Boots,None,No,No,None,Standing,875,275,983,673,Guarding
+Viewer,Native,1.62,15,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,714,286,778,495,Idle
+Law Officer,Native,1.74,36,M,Beret,Jacket,Pants,N.I,None,No,No,None,Standing,779,256,840,505,Guarding
+Viewer,Native,1.66,35,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,1135,299,1241,671,Idle
+Delinquent ,White,1.70,22,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,236,264,272,351,Running
+Delinquent ,Native,1.72,23,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,290,262,327,314,Running
+Delinquent ,Native,1.68,19,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Moving,337,226,360,274,Running
+Delinquent ,Native,1.75,30,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,414,185,448,248,Running
+Delinquent ,Native,1.66,35,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,532,175,553,222,Running
+Delinquent ,Native,1.65,42,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,22,244,78,343,Running
+Law Officer,Native,1.73,41,M,Cap,Shirt,Pants,Shoes,None,No,Gun,None,Standing,59,73,120,166,Talking
+Delinquent ,Black,1.71,38,M,Cap,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,243,210,317,298,Running
+Viewer,White,1.72,35,M,None,Sweater|backpack,Pants,Shoes,None,No,No,None,Standing,186,284,280,666,Idle
+Aggressor,White,1.68,37,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,278,267,320,415,Fighting
+Victim,Native,1.70,42,M,None,None,Shorts,Sneakers,None,No,No,None,Crawling,314,389,450,448,Fighting
+Aggressor,Native,1.73,40,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,462,326,552,462,Fighting
+Viewer,Native,1.67,35,M,None,Shirt,Pants,Shoes,None,No,No,None,Standing,336,331,410,446,Idle
+Delinquent ,Native,1.65,18,M,Cap,Coat,Pants,Sneakers,None,No,No,None,Moving,198,376,246,495,Running
+Delinquent ,Native,1.67,19,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,296,320,321,417,Running
+Delinquent ,Native,1.68,22,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,313,299,348,401,Running
+Delinquent ,Native,1.71,26,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,355,394,397,519,Running
+Delinquent ,Black,1.72,27,M,None,Sweater,Joggers,Sneakers,None,No,No,None,Moving,457,327,491,420,Running
+Delinquent ,White,1.66,24,M,Cap,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,509,309,540,404,Running
+Delinquent ,Native,1.70,21,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,152,448,228,554,Fighting
+Delinquent ,Native,1.68,18,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,275,422,332,519,Fighting
+Delinquent ,Native,1.65,16,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,276,392,332,500,Fighting
+Delinquent ,Native,1.71,19,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,529,593,620,700,Fighting
+Delinquent ,Native,1.73,23,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,671,548,759,666,Fighting
+Delinquent ,Native,1.70,22,M,None,Sports T-shirt,T-shirt,Sneakers,None,No,No,None,Moving,588,288,648,491,Fighting
+Delinquent ,Native,1.65,27,M,None,Sports T-shirt,Pants,Sneakers,None,No,Gun,None,Moving,700,277,749,373,Running
+Delinquent ,Black,1.79,18,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,793,292,820,414,Fighting
+Delinquent ,Black,1.75,19,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,748,291,794,408,Fighting
+Delinquent ,Black,1.67,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,735,251,775,377,Fighting
+Delinquent ,Native,1.72,23,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,794,251,841,367,Fighting
+Delinquent ,White,1.74,24,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,627,240,700,378,Fighting
+Viewer,Native,1.66,57,F,None,T-shirt,Pants,N.I,None,No,No,None,Moving,161,326,316,705,Walking
+Viewer,Native,1.70,26,F,None,Blouse,Shorts,Sneakers,None,No,No,None,Moving,127,173,284,479,Walking
+Delinquent ,N.I,1.71,26,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,563,438,585,496,Fighting
+Delinquent ,N.I,N.I,23,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,545,503,576,544,Fighting
+Delinquent ,Native,1.68,18,M,None,Sports T-shirt,Pants,Sneakers,None,No,Gun,None,Moving,555,548,589,597,Shooting
+Delinquent ,Native,1.72,19,M,None,Sports T-shirt,Pants,Sneakers,None,No,No,None,Moving,615,599,648,660,Fighting
+Delinquent ,N.I,1.73,24,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,636,538,662,575,Fighting
+Delinquent ,N.I,1.73,22,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,Gun,None,Moving,658,504,679,543,Shooting
+Delinquent ,Black,1.69,16,M,Cap,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,678,492,711,545,Fighting
+Delinquent ,Native,1.70,18,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,515,521,737,575,Fighting
+Delinquent ,N.I,N.I,17,M,None,Sports T-shirt,Joggers,Sneakers,None,No,Gun,None,Moving,705,444,736,483,Shooting
+Viewer,Black,N.I,46,M,None,T-shirt,N.I,N.I,None,No,No,None,Seated,10,260,341,686,Idle
+Viewer,White,N.I,52,M,Cap,T-shirt,N.I,N.I,None,No,No,None,Seated,378,260,746,699,Idle
+Viewer,Native,1.72,22,M,None,Sports T-shirt,Jeans,N.I,None,No,No,None,Seated,36,38,205,349,Idle
+Viewer,Black,1.67,37,M,Cap,Sports T-shirt,Jeans,N.I,None,No,No,None,Seated,180,80,362,504,Encouraging
+Viewer,White,1.72,46,M,Cap,Sports T-shirt,Jeans,N.I,None,No,No,None,Seated,311,45,494,467,Encouraging
+Viewer,Native,N.I,43,M,None,T-shirt,Shorts,N.I,None,No,No,None,Seated,740,208,858,541,Idle
+Viewer,Native,N.I,10,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Seated,829,240,954,499,Idle
+Aggressor,Native,1.70,29,M,None,T-shirt,Shorts,N.I,None,No,No,None,Standing,728,27,880,351,Fighting
+Aggressor,Native,1.72,32,M,None,T-shirt|backpack,Shorts,N.I,None,No,No,None,Standing,1129,1,1265,357,Fighting
+Viewer,Native,N.I,28,M,None,T-shirt,Shorts,N.I,None,No,No,None,Seated,875,157,928,253,Idle
+Viewer,Native,N.I,29,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Seated,968,149,1033,257,Staring
+Viewer,Native,N.I,31,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Seated,1035,151,1094,288,Idle
+Viewer,Native,N.I,33,M,None,Sports T-shirt,Shorts,N.I,None,No,No,None,Seated,961,82,1026,149,Staring
+Viewer,Native,1.73,42,M,Cap,Sports T-shirt,N.I,N.I,None,No,No,None,Standing,1015,21,155,279,Staring
+Viewer,Native,1.71,35,M,None,Sports T-shirt,N.I,N.I,None,No,No,None,Standing,385,51,442,203,Staring
+Viewer,Native,1.68,36,M,Cap,Sports T-shirt,N.I,N.I,None,No,No,None,Seated,458,67,558,197,Idle
+Viewer,Native,1.70,22,M,Cap,Sports T-shirt,N.I,N.I,None,No,No,None,Seated,570,93,649,218,Idle
+Viewer,Native,1.72,26,M,None,Sports T-shirt,N.I,N.I,None,No,No,None,Seated,679,47,753,156,Idle
+Viewer,Native,N.I,39,M,Cap,Sports T-shirt,N.I,N.I,None,No,No,None,Standing,723,203,837,364,Idle
+Aggressor,Black,1.70,26,M,Cap,T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,130,174,207,293,Fighting
+Aggressor,Native,1.69,25,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,414,106,475,195,Fighting
+Aggressor,Native,1.72,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,408,229,502,347,Fighting
+Aggressor,Native,1.81,19,M,None,Sweater,Jeans,Sneakers,None,No,Other,None,Moving,185,216,239,307,Fighting
+Aggressor,Native,1.65,16,M,None,T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,256,168,295,288,Fighting
+Aggressor,Native,1.67,18,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,234,160,262,260,Fighting
+Aggressor,Native,1.69,22,M,None,T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,540,133,580,225,Fighting
+Aggressor,Native,1.68,21,M,None,Sweater,Joggers,Sneakers,None,No,Other,None,Moving,345,150,380,223,Fighting
+Aggressor,Native,1.65,20,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,130,145,177,207,Fighting
+Aggressor,Native,1.73,20,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,300,118,339,165,Fighting
+Viewer,Native,1.62,19,M,None,T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,607,255,640,347,Running
+Viewer,Black,1.72,30,M,Cap,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,97,56,155,202,Running
+Law Officer,Native,1.70,35,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,267,72,341,242,Carrying
+Viewer,Native,1.73,27,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,323,52,395,199,Running
+Viewer,Native,1.70,38,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,379,52,451,220,Running
+Viewer,Native,1.69,27,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,442,38,518,228,Running
+Viewer,Native,1.70,33,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,510,32,573,231,Running
+Viewer,Native,1.65,41,M,Cap,None,Shorts,N.I,None,No,No,None,Moving,118,79,169,279,Running
+Viewer,Native,1.68,43,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Moving,169,71,206,265,Running
+Viewer,Native,1.70,32,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,202,63,252,290,Running
+Viewer,Native,1.69,35,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,266,75,293,255,Running
+Viewer,White,1.72,30,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,256,70,323,283,Running
+Viewer,Black,1.71,20,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,329,71,390,300,Running
+Viewer,Black,1.66,25,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,395,65,469,285,Running
+Viewer,Black,1.68,21,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,446,80,528,323,Running
+Law Officer,Native,1.67,37,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,186,152,253,317,Driving
+Law Officer,Native,1.70,29,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,292,143,327,254,Driving
+Law Officer,Native,1.68,49,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,406,158,499,314,Driving
+Viewer,Native,1.69,32,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,162,143,180,204,Encouraging
+Viewer,Native,1.68,36,M,None,T-shirt,Shorts,N.I,None,No,No,None,Moving,179,147,199,200,Encouraging
+Viewer,White,1.70,45,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,200,141,221,202,Encouraging
+Viewer,Black,1.68,19,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,242,144,264,204,Encouraging
+Viewer,White,1.69,22,M,None,T-shirt,Jeans,N.I,None,No,No,None,Moving,257,144,273,208,Encouraging
+Viewer,Native,1.70,29,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,329,143,349,212,Encouraging
+Viewer,Native,1.73,29,M,Cap,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,349,138,367,207,Encouraging
+Viewer,Native,1.66,26,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,369,145,388,197,Encouraging
+Viewer,Native,1.82,29,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,154,152,182,241,Encouraging
+Viewer,Native,1.70,41,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,180,150,208,250,Encouraging
+Law Officer,Native,1.72,37,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,193,137,241,243,Driving
+Law Officer,White,1.68,39,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,242,147,269,235,Driving
+Viewer,Black,1.73,54,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,340,151,369,215,Walking
+Viewer,Black,1.65,51,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,361,139,391,225,Walking
+Law Officer,Black,1.76,41,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,412,151,451,206,Screaming
+Law Officer,Native,1.69,52,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,434,157,462,223,Screaming
+Viewer,Native,1.70,19,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,451,141,479,239,Screaming
+Viewer,Native,1.71,26,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,479,145,508,239,Screaming
+Viewer,Native,1.77,23,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,254,148,282,243,Running
+Viewer,Native,1.73,25,M,Cap,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,293,152,318,241,Walking
+Viewer,Native,1.67,18,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,339,159,364,246,Walking
+Viewer,Native,1.70,17,M,Cap,None,Shorts,N.I,None,No,No,None,Moving,371,158,400,241,Walking
+Viewer,Native,1.71,19,M,Cap,None,Shorts,N.I,None,No,No,None,Moving,402,163,443,243,Walking
+Viewer,Black,1.68,27,M,None,None,Shorts,N.I,None,No,No,None,Moving,440,156,477,235,Walking
+Viewer,Native,1.72,33,M,Cap,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,487,153,510,227,Walking
+Viewer,Native,1.75,21,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,499,161,523,255,Walking
+Viewer,Native,1.70,26,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,523,157,547,254,Walking
+Viewer,Native,1.69,27,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,119,107,159,252,Walking
+Viewer,Native,1.77,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,161,120,177,218,Walking
+Viewer,Black,1.73,26,M,Cap,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,173,121,206,235,Walking
+Law Officer,Native,1.78,47,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,196,106,245,237,Walking
+Viewer,White,1.73,34,M,Cap,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,243,106,268,214,Walking
+Viewer,Native,1.71,29,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,279,107,304,219,Walking
+Viewer,Native,1.70,18,M,Cap,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,289,115,319,248,Walking
+Viewer,Native,1.68,26,M,None,Sports T-shirt,Joggers,N.I,None,No,No,None,Moving,318,124,354,245,Walking
+Viewer,Native,1.65,57,M,None,None,Jeans,N.I,None,No,No,Text,Moving,360,120,390,241,Walking
+Viewer,Native,1.68,22,M,None,None,Shorts,N.I,None,No,No,None,Moving,378,111,411,235,Walking
+Viewer,Native,1.71,24,M,None,T-shirt,Shorts,N.I,None,No,No,None,Moving,413,118,452,254,Walking
+Viewer,Black,1.72,30,M,None,Sports T-shirt,Shorts,N.I,None,No,No,Text,Moving,439,107,467,236,Walking
+Viewer,White,1.68,29,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,475,127,510,230,Walking
+Viewer,White,1.70,27,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,508,105,553,237,Walking
+Law Officer,Black,1.71,31,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,106,137,138,259,Talking
+Law Officer,Native,1.73,30,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,134,138,158,246,Talking
+Law Officer,White,1.65,29,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,154,145,192,246,Talking
+Law Officer,Native,1.66,33,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,218,148,251,230,Working
+Law Officer,Native,1.70,36,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,253,142,297,246,Working
+Viewer,Native,1.74,46,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,330,157,380,265,Running
+Viewer,Native,1.70,37,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,419,138,439,235,Running
+Law Officer,Native,1.76,36,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,443,136,482,258,Running
+Viewer,Native,1.73,26,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,469,124,506,237,Running
+Viewer,Black,1.70,24,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,526,128,556,228,Running
+Law Officer,Black,1.70,32,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,127,80,280,335,Running
+Viewer,White,1.68,23,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,298,130,339,248,Running
+Viewer,White,1.58,22,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,340,149,408,247,Running
+Viewer,Black,1.73,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,Text,Moving,390,133,417,235,Running
+Viewer,Native,1.69,47,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,423,134,449,206,Running
+Viewer,White,1.67,50,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,511,124,528,245,Running
+Viewer,Native,1.65,36,M,None,None,Shorts,N.I,None,No,No,Text,Moving,531,111,561,252,Running
+Viewer,White,1.68,39,M,None,None,Shorts,N.I,None,No,No,None,Moving,92,82,238,329,Running
+Viewer,Native,1.68,19,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,325,74,439,358,Running
+Viewer,Native,1.73,32,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,429,69,547,343,Running
+Viewer,Native,1.70,19,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,172,73,263,313,Running
+Viewer,Native,1.68,22,M,None,None,Jeans,Sneakers,None,No,No,None,Moving,330,61,443,319,Running
+Viewer,Native,1.70,27,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,428,40,506,304,Running
+Viewer,Native,1.73,30,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,236,206,279,321,Running
+Viewer,Native,1.68,28,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,280,210,324,321,Running
+Law Officer,Native,1.70,36,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,304,198,404,348,Walking
+Viewer,Native,1.70,44,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,386,185,424,308,Walking
+Viewer,Native,1.68,46,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,432,186,449,268,Walking
+Viewer,Native,1.75,35,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,445,185,475,289,Talking
+Viewer,Native,1.68,52,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,472,180,504,289,Talking
+Law Officer,Native,1.71,38,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,492,161,560,343,Walking
+Aggressor,Black,1.72,25,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,132,109,189,295,Fighting
+Aggressor,Black,1.68,25,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,195,105,267,332,Fighting
+Aggressor,Black,1.70,31,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,271,115,375,351,Fighting
+Aggressor,Native,1.71,36,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,366,102,398,318,Fighting
+Aggressor,Native,1.73,36,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,396,115,432,316,Fighting
+Aggressor,Native,1.65,34,M,None,None,Jeans,Sneakers,None,No,No,None,Moving,429,76,471,221,Fighting
+Aggressor,Native,1.66,44,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,452,122,560,338,Fighting
+Viewer,Native,1.70,50,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,83,120,129,297,Fighting
+Viewer,Native,1.74,33,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,367,118,412,284,Fighting
+Law Officer,Black,1.70,49,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,393,114,495,339,Shooting
+Viewer,Native,1.76,30,M,None,None,Jeans,Sneakers,None,No,No,None,Moving,143,90,171,240,Walking
+Viewer,Native,1.73,45,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,191,95,209,242,Walking
+Viewer,White,1.71,26,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,99,61,122,185,Walking
+Law Officer,Black,1.68,45,M,Helmet,Sweater,Pants,N.I,None,No,Gun,None,Moving,121,72,134,198,Walking
+Viewer,Native,1.70,39,M,None,None,Jeans,Sneakers,None,No,No,None,Moving,204,76,279,310,Walking
+Viewer,Native,1.82,46,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,367,103,401,228,Walking
+Law Officer,Native,1.72,36,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,345,96,371,224,Walking
+Viewer,Native,1.65,26,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,426,80,472,267,Walking
+Viewer,White,1.69,30,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,480,113,503,222,Running
+Viewer,Black,1.72,28,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,506,93,532,232,Running
+Viewer,Black,1.81,27,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,536,96,556,222,Running
+Viewer,White,1.65,30,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,121,109,172,309,Running
+Viewer,Native,1.67,28,M,None,None,Shorts,Sneakers,None,No,No,Text,Moving,157,119,245,345,Running
+Viewer,Native,1.69,34,M,None,None,Shorts,Sneakers,None,No,No,None,Moving,191,100,283,323,Walking
+Viewer,Native,1.68,35,M,None,None,Shorts,N.I,None,No,No,None,Moving,264,93,316,267,Walking
+Viewer,Native,1.65,35,M,None,T-shirt,Jeans,N.I,None,No,No,None,Moving,327,104,377,237,Walking
+Viewer,Native,1.73,37,M,None,T-shirt,Shorts,N.I,None,No,No,None,Moving,392,99,453,311,Walking
+Viewer,Native,1.62,48,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,449,122,500,295,Walking
+Viewer,Black,1.72,49,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,473,82,514,254,Walking
+Viewer,Black,1.70,19,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,522,88,568,252,Walking
+Viewer,Native,1.73,22,M,None,Sports T-shirt,Shorts,N.I,None,No,No,Text,Moving,223,124,257,269,Walking
+Viewer,Native,1.70,35,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,Text,Moving,307,122,359,270,Walking
+Viewer,Native,1.69,18,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,347,136,411,345,Walking
+Viewer,Native,1.70,22,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,Text,Moving,484,124,554,326,Walking
+Viewer,Black,1.70,36,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,131,135,163,238,Walking
+Viewer,N.I,1.68,26,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,173,116,189,186,Walking
+Law Officer,Black,1.73,30,M,Helmet,Sweater,Pants,Boots,None,No,No,None,Moving,190,134,219,240,Walking
+Viewer,N.I,1.65,28,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,214,112,230,172,Walking
+Viewer,N.I,1.74,27,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,257,114,275,177,Walking
+Viewer,N.I,1.70,30,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,286,130,304,190,Walking
+Law Officer,N.I,1.76,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,307,145,338,231,Walking
+Viewer,N.I,1.73,34,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,388,146,402,200,Walking
+Law Officer,N.I,1.71,35,M,Cap,Shirt,Pants,Shoes,None,No,No,None,Moving,445,155,469,225,Walking
+Viewer,N.I,1.68,35,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,499,173,523,238,Walking
+Viewer,Native,1.70,37,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,589,198,631,272,Walking
+Victim,Native,1.71,22,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Dead,232,149,424,272,Idle
+Delinquent ,Native,1.73,33,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,244,231,266,279,Running
+Viewer,N.I,1.70,21,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,279,212,297,258,Running
+Viewer,Native,1.69,26,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,302,194,337,247,Running
+Delinquent ,N.I,1.70,27,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,268,169,288,209,Running
+Delinquent ,N.I,1.70,22,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,303,143,323,182,Running
+Delinquent ,N.I,1.68,26,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,327,141,339,182,Running
+Delinquent ,N.I,1.73,47,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,201,156,216,212,Running
+Delinquent ,Native,1.65,34,M,Cap,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,234,172,251,200,Running
+Delinquent ,N.I,1.74,29,M,Cap,Sweater,Shorts,Sneakers,None,No,No,None,Moving,168,178,184,244,Running
+Viewer,N.I,1.70,18,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,506,216,521,269,Running
+Delinquent ,N.I,1.74,26,M,None,Sweater,Shorts,Sneakers,None,No,No,None,Moving,406,170,427,220,Running
+Viewer,N.I,1.70,57,M,None,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,510,147,519,199,Running
+Delinquent ,Native,1.76,22,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,468,177,485,239,Running
+Law Officer,Native,1.70,36,M,None,Sweater,Pants,Boots,None,No,Gun,None,Moving,389,139,407,194,Shooting
+Law Officer,White,1.71,36,M,None,Sweater,Pants,Boots,None,No,Gun,None,Moving,77,46,129,141,Shooting
+Law Officer,White,1.73,41,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,192,108,247,186,Shooting
+Law Officer,Native,1.70,36,M,None,Sweater,Pants,Boots,None,No,Gun,None,Moving,215,59,273,129,Running
+Viewer,Native,1.74,19,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Moving,130,169,161,221,Running
+Viewer,Black,1.70,22,M,None,t-shirt,Jeans,Sneakers,None,No,No,None,Moving,254,156,276,194,Running
+Delinquent ,N.I,1.76,35,M,None,T-shirt,Jeans,Shoes,None,No,No,None,Moving,330,94,341,124,Running
+Delinquent ,Black,1.73,18,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,329,123,347,158,Running
+Delinquent ,N.I,1.70,29,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,356,192,383,247,Running
+Delinquent ,N.I,1.74,29,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,336,225,362,281,Running
+Delinquent ,N.I,1.70,26,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,146,154,175,194,Running
+Delinquent ,N.I,1.76,29,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,168,158,204,239,Running
+Delinquent ,N.I,1.73,41,M,None,Sweater,Joggers,Sneakers,None,No,No,None,Moving,185,110,208,171,Running
+Delinquent ,N.I,1.70,37,M,None,Sports T-shirt,Joggers,Sneakers,None,No,No,None,Moving,207,134,228,183,Running
+Law Officer,N.I,1.70,39,M,Helmet,Sweater,Pants,Boots,None,No,No,None,Moving,249,125,266,185,Running
+Viewer,N.I,1.68,54,M,None,Sweater,Jeans,Shoes,None,No,No,None,Moving,282,133,302,201,Running
+Delinquent ,Black,1.73,21,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,353,185,397,260,Running
+Delinquent ,Native,1.71,18,M,Tied T-shirt,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,315,140,345,201,Running
+Delinquent ,Native,1.68,16,M,None,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,142,156,177,251,Running
+Delinquent ,Native,1.70,19,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,169,166,196,239,Running
+Delinquent ,Native,1.71,23,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,206,155,228,253,Running
+Delinquent ,Black,1.73,22,M,Tied T-shirt,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,220,159,253,250,Running
+Delinquent ,Native,1.70,27,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,246,145,278,275,Running
+Delinquent ,Black,1.69,18,M,None,Sports T-shirt,Jeans,Sneakers,None,No,No,None,Moving,288,154,318,248,Running
+Law Officer,Black,1.65,43,M,None,Shirt,Pants,N.I,None,No,No,None,Moving,332,167,362,267,Running
+Law Officer,Native,1.67,35,M,Cap,Shirts,Pants,N.I,None,No,No,None,Moving,361,167,390,259,Running
+Law Officer,Native,1.68,32,M,Cap,Shirt,Pants,N.I,None,No,Other,None,Moving,75,166,131,302,Running
+Law Officer,Native,1.71,29,M,Cap,Shirt,Pants,N.I,None,No,No,None,Moving,142,159,178,284,Running
+Law Officer,Native,1.72,36,M,None,Shirt,Pants,N.I,None,No,No,None,Moving,169,134,229,347,Running
+Law Officer,White,1.66,37,M,Beret,Shirt,Pants,N.I,None,No,No,None,Moving,242,159,273,310,Running
+Delinquent ,Black,1.65,50,M,None,T-shirt,N.I,N.I,None,No,No,None,Moving,256,174,290,318,Running
+Law Officer,Black,1.71,51,M,Beret,Shirt,Pants,N.I,None,No,No,None,Moving,290,160,364,330,Running
+Delinquent ,N.I,1.74,26,M,None,Shirt,Shorts,Sneakers,None,No,Other,None,Moving,359,159,406,284,Running
+Delinquent ,N.I,1.70,30,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,456,193,531,288,Fighting
+Delinquent ,N.I,1.76,28,M,Cap,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,188,98,212,165,Running
+Delinquent ,N.I,1.70,27,M,None,Shirt,Joggers,Sneakers,None,No,Other,None,Moving,218,92,251,164,Running
+Delinquent ,N.I,1.71,30,M,Cap,Sports T-shirt,Joggers,Sneakers,None,No,Other,None,Moving,247,88,275,156,Fighting
+Delinquent ,N.I,1.68,28,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,283,94,298,165,Fighting
+Delinquent ,N.I,1.66,34,M,None,Sports T-shirt,Shorts,Sneakers,None,No,Other,None,Moving,316,99,344,171,Running
+Delinquent ,N.I,1.73,35,M,None,Sports T-shirt,Joggers,Sneakers,None,No,Other,None,Moving,376,99,400,175,Running
+Viewer,Native,1.68,22,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,226,382,252,501,Running
+Viewer,White,1.70,36,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,248,425,274,541,Running
+Viewer,Black,1.71,36,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,266,445,318,570,Running
+Viewer,Native,1.73,41,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,318,412,348,534,Running
+Viewer,Native,1.65,36,F,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,401,432,437,560,Running
+Viewer,Native,1.66,19,F,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,836,474,902,601,Running
+Viewer,Native,1.70,22,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,663,309,709,418,Walking
+Viewer,White,1.74,35,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,501,287,557,415,Walking
+Viewer,Black,1.70,18,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,524,322,570,444,Walking
+Viewer,Black,1.76,29,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,576,338,620,456,Walking
+Viewer,White,1.73,29,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,711,245,749,326,Running
+Viewer,Native,1.71,26,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,771,212,816,314,Running
+Viewer,Native,1.68,29,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,702,228,750,347,Running
+Viewer,Native,1.70,41,F,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,739,201,765,315,Running
+Viewer,Native,1.72,26,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,1197,399,1235,540,Running
+Viewer,N.I,1.70,27,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Standing,294,265,350,547,Running
+Viewer,N.I,1.71,26,M,Helmet,T-shirt|backpack,Jeans,N.I,None,No,No,None,Standing,350,319,422,603,Talking
+Viewer,N.I,1.68,28,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Standing,1,284,62,602,Talking
+Viewer,N.I,1.66,32,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Standing,13,584,161,708,Talking
+Viewer,Native,1.73,33,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Standing,107,251,271,525,Talking
+Viewer,Native,1.68,27,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Standing,188,282,257,526,Talking
+Law Officer,N.I,1.81,34,M,Helmet,Jacket,Pants,Boots,None,No,Gun,None,Moving,322,219,400,399,Shooting
+Delinquent ,Native,1.73,35,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,891,249,942,391,Running
+Delinquent ,Native,1.75,35,M,None,Coat,Jeans,Sneakers,None,No,No,None,Moving,953,334,1011,461,Running
+Delinquent ,Native,1.70,37,M,None,Sweater,Pants,Sneakers,None,No,No,None,Moving,1218,303,1274,482,Running
+Delinquent ,Native,1.66,22,M,None,T-shirt,Pants,Sneakers,None,No,No,None,Moving,1170,192,1258,334,Running
+Delinquent ,Native,1.68,33,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,1076,106,1129,225,Running
+Delinquent ,Native,1.72,21,M,None,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,1088,62,1148,154,Running
+Aggressor,Black,1.66,41,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,380,208,483,457,Fighting
+Aggressor,Black,1.70,37,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,494,205,597,426,Fighting
+Aggressor,Native,1.74,39,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,561,279,642,488,Fighting
+Aggressor,Native,1.70,34,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,620,219,719,444,Fighting
+Aggressor,Native,1.76,31,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,703,230,818,478,Fighting
+Aggressor,Native,1.73,27,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,831,308,884,482,Fighting
+Aggressor,Native,1.71,25,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,911,235,1022,531,Fighting
+Aggressor,Black,1.68,37,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,972,384,1067,595,Fighting
+Aggressor,Black,1.70,26,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,1083,469,1201,697,Fighting
+Viewer,Black,1.73,29,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,176,292,188,371,Running
+Viewer,Native,1.65,43,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,196,348,213,419,Walking
+Viewer,Native,1.66,27,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,228,312,246,386,Running
+Viewer,Native,1.70,26,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,274,332,301,392,Walking
+Viewer,Native,1.74,33,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,306,339,331,417,Walking
+Viewer,Native,1.70,34,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,284,388,309,475,Walking
+Viewer,Native,1.76,36,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,411,384,442,479,Walking
+Viewer,Native,1.73,34,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,353,396,401,496,Walking
+Viewer,Black,1.70,41,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,323,345,367,441,Walking
+Viewer,Native,1.70,18,F,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,353,314,388,399,Walking
+Viewer,Native,1.68,21,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,275,284,313,362,Walking
+Viewer,White,1.58,18,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,244,274,291,351,Walking
+Viewer,Native,1.73,34,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,213,247,235,295,Running
+Viewer,White,1.76,45,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,288,240,318,292,Running
+Viewer,White,1.73,40,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,344,273,358,334,Running
+Viewer,White,1.71,39,F,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,385,332,409,410,Running
+Viewer,Native,1.68,24,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,139,425,166,510,Running
+Viewer,Native,1.70,37,F,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,167,412,203,501,Walking
+Viewer,Native,1.73,35,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,136,414,167,508,Walking
+Viewer,White,1.65,24,F,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,242,513,284,621,Walking
+Viewer,White,1.66,28,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,301,519,326,619,Walking
+Viewer,Black,1.70,23,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,341,512,359,608,Walking
+Viewer,Black,1.74,25,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,78,247,139,349,Walking
+Viewer,Black,1.70,27,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,355,221,384,330,Walking
+Viewer,Native,1.68,31,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,348,215,379,286,Walking
+Viewer,Native,1.68,27,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,436,266,470,352,Walking
+Viewer,Black,1.66,32,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,453,373,502,456,Running
+Viewer,White,1.73,18,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,519,413,548,499,Running
+Viewer,White,1.68,18,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,493,310,531,377,Running
+Viewer,Native,1.70,22,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,501,219,528,292,Running
+Viewer,Black,1.66,33,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,523,195,562,297,Running
+Viewer,Native,1.81,41,M,Helmet,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,649,277,680,380,Running
+Viewer,Native,1.73,26,M,Helmet,T-shirt,Pants,Sneakers,None,No,No,None,Moving,748,340,770,428,Running
+Viewer,Black,1.75,40,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,674,243,716,328,Running
+Viewer,Black,1.62,34,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,649,223,691,301,Running
+Viewer,Native,1.68,19,M,Helmet,T-shirt,Jeans,N.I,None,No,No,None,Moving,641,190,680,279,Running
+Law Officer,N.I,1.81,29,M,Helmet,Sweater,Pants,Boots,None,No,No,None,Moving,700,183,736,270,Working
+Law Officer,N.I,1.73,29,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,753,235,787,326,Working
+Law Officer,N.I,1.75,36,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,828,290,862,391,Working
+Law Officer,N.I,1.70,34,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,855,393,914,501,Working
+Law Officer,N.I,1.66,29,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,861,274,897,371,Working
+Law Officer,Native,1.68,40,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,755,183,797,292,Working
+Law Officer,Native,1.72,34,M,Helmet,Sweater,Pants,Boots,None,No,No,None,Moving,920,279,949,388,Working
+Law Officer,Native,1.73,31,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Crouched,174,227,242,477,Working
+Delinquent ,Native,1.68,22,M,None,Sweater,Jeans,Sneakers,None,No,No,None,Crawling,115,344,276,427,Idle
+Delinquent ,Native,1.67,26,M,None,Sweater,Jeans,Sneakers,None,No,No,None,Crawling,258,344,413,421,Idle
+Viewer,Native,1.76,29,M,Helmet,Sweater|backpack,Jeans,Shoes,None,No,No,None,Standing,292,284,368,497,Idle
+Law Officer,Black,1.78,36,M,Helmet,Sweater,Pants,Boots,None,No,No,None,Standing,246,151,353,391,Working
+Law Officer,Black,1.69,34,M,Helmet,Sweater,Pants,Boots,None,No,No,None,Standing,411,164,491,378,Working
+Law Officer,Native,1.73,29,M,Cap,Coat,Pants,Shoes,None,No,No,None,Moving,426,303,537,553,Walking
+Law Officer,Native,1.70,40,M,Cap,Coat,Pants,Shoes,None,No,No,None,Moving,520,218,600,457,Walking
+Viewer,White,1.69,42,M,Helmet,T-shirt,Pants,N.I,None,No,No,None,Moving,567,331,627,556,Walking
+Viewer,Native,1.66,34,F,Helmet|face mask,T-shirt|jacket,Pants,Sneakers,None,No,No,None,Moving,179,164,398,619,Guarding
+Viewer,Black,1.81,36,M,Helmet|face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,387,292,572,644,Guarding
+Viewer,Native,1.73,34,M,Helmet|face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,509,275,627,630,Protesting
+Viewer,Native,1.75,41,M,Helmet|face mask,T-shirt|jacket,Jeans,Sneakers,None,No,No,None,Moving,387,131,511,400,Protesting
+Viewer,White,1.62,18,M,Helmet|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,484,126,567,339,Protesting
+Viewer,Native,1.68,21,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,566,132,616,328,Protesting
+Viewer,White,1.81,18,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,588,110,714,365,Guarding
+Viewer,White,1.73,34,F,Helmet|face mask,Coat,Pants,Sneakers,None,No,No,None,Moving,674,135,916,347,Guarding
+Viewer,White,1.68,45,M,Helmet|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,598,318,842,619,Guarding
+Viewer,Native,1.71,40,M,Helmet|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,814,358,1027,714,Guarding
+Viewer,Native,1.68,23,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,220,36,345,390,Guarding
+Viewer,Black,1.69,25,M,Beanie|face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,370,43,542,491,Guarding
+Viewer,Black,1.71,26,M,Cap|face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,526,52,616,414,Guarding
+Victim,Native,1.66,43,M,Face mask,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,629,41,989,684,Idle
+Viewer,Native,1.74,27,M,Tied T-shirt,T-shirt,N.I,N.I,None,No,No,None,Moving,893,3,1068,588,Idle
+Viewer,N.I,1.70,30,M,Hoodie,Sweater,Pants,Sneakers,None,No,No,None,Crouched,80,144,198,456,Protesting
+Viewer,N.I,1.71,28,M,Hoodie,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,205,271,266,417,Protesting
+Viewer,N.I,1.68,34,M,Cap|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,239,252,318,432,Protesting
+Viewer,N.I,1.66,35,M,Hoodie|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,336,269,422,406,Protesting
+Viewer,N.I,1.73,22,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Crouched,470,219,749,630,Protesting
+Viewer,N.I,1.68,36,M,Hoodie,Sweater,Jeans,Sneakers,None,No,No,None,Crouched,918,213,1050,391,Protesting
+Law Officer,Native,1.73,33,M,Beret,Shirt,N.I,N.I,None,No,No,None,Standing,92,27,322,595,Working
+Law Officer,White,1.78,41,M,Beret,Jacket,N.I,N.I,None,No,No,None,Standing,319,3,511,628,Working
+Law Officer,White,1.68,46,M,None,Shirt,N.I,N.I,None,No,No,None,Seated,496,87,667,539,Working
+Aggressor,White,1.63,32,F,None,Blouse,N.I,N.I,None,No,No,None,Standing,639,204,883,679,Fighting
+Law Officer,Native,1.72,29,M,Beret,Shirt,N.I,N.I,None,No,No,None,Standing,794,28,1168,671,Working
+Viewer,Native,1.70,26,M,Cap,Sweater,N.I,N.I,None,No,No,Text,Moving,250,275,333,584,Protesting
+Viewer,Native,1.72,21,M,Cap|face mask,T-shirt,N.I,Sneakers,None,No,No,Text,Moving,322,279,381,506,Protesting
+Viewer,Black,1.73,23,M,Face mask,Sweater,N.I,Sneakers,None,No,No,Text,Moving,372,267,441,571,Protesting
+Viewer,Black,1.68,24,M,Face mask,N.I,N.I,Sneakers,None,No,No,Text,Moving,405,265,487,532,Protesting
+Viewer,Native,1.67,22,M,Face mask,N.I,N.I,Sneakers,None,No,No,Text,Moving,471,291,536,495,Protesting
+Viewer,Native,1.76,25,M,Face mask,N.I,N.I,Sneakers,None,No,No,Text,Moving,523,270,588,430,Protesting
+Viewer,White,1.78,27,M,Face mask,N.I,N.I,Sneakers,None,No,No,Text,Moving,609,248,739,648,Protesting
+Viewer,Native,1.69,30,M,Face shield|face mask,Sweater|backpack,Jeans,Sneakers,None,No,No,None,Moving,731,278,814,597,Protesting
+Viewer,Black,1.73,33,F,None,Sweater,Pants,Boots,None,No,No,None,Moving,879,256,918,477,Protesting
+Viewer,Native,1.70,26,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Moving,910,235,975,544,Protesting
+Viewer,Native,1.69,29,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,992,232,1032,430,Protesting
+Viewer,Native,1.66,29,M,Face mask,Sweater,Shorts,Sneakers,None,No,No,Text,Moving,1096,267,1189,652,Protesting
+Viewer,White,1.72,23,M,Face mask,Sweater,N.I,N.I,None,No,No,Images,Moving,55,243,103,503,Protesting
+Viewer,White,1.68,22,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,Images,Moving,107,260,185,556,Protesting
+Viewer,Native,1.68,22,F,Face mask,Sweater,N.I,N.I,None,No,No,Images,Moving,198,273,252,564,Protesting
+Viewer,Native,1.68,19,M,Cap|face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,255,288,297,586,Protesting
+Viewer,Native,1.56,23,F,Glasses|face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,275,245,329,543,Protesting
+Viewer,White,1.59,29,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,329,238,402,571,Protesting
+Viewer,White,1.64,28,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,561,293,629,557,Protesting
+Viewer,White,1.63,26,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,757,284,822,538,Protesting
+Viewer,White,1.63,22,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,903,256,970,575,Protesting
+Viewer,Native,1.60,23,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,1014,265,1078,527,Protesting
+Viewer,Native,1.60,24,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,1096,277,1157,544,Protesting
+Viewer,Native,1.61,23,F,Face mask,T-shirt,N.I,N.I,None,No,No,Images,Moving,1168,267,1253,557,Protesting
+Viewer,N.I,1.71,24,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,276,471,375,674,Protesting
+Viewer,N.I,1.68,25,M,Face shield|face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,303,388,392,588,Protesting
+Viewer,Native,1.69,32,M,Face shield|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,405,388,483,626,Protesting
+Viewer,Native,1.71,33,M,Face shield|face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Moving,489,366,568,548,Protesting
+Viewer,N.I,1.66,29,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,431,512,593,704,Protesting
+Viewer,N.I,1.74,26,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,659,393,752,621,Protesting
+Viewer,N.I,1.70,29,F,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,807,388,910,635,Protesting
+Viewer,N.I,1.71,31,M,Face shield|face mask,Sweater,Joggers,N.I,None,No,No,Images,Moving,779,356,836,569,Protesting
+Viewer,Native,1.68,33,M,Face shield|face mask,Sweater,Joggers,N.I,None,No,No,None,Moving,910,375,985,622,Protesting
+Viewer,Native,1.66,23,M,Face shield|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,963,287,1028,440,Protesting
+Viewer,N.I,1.73,19,M,Face shield|face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,1052,325,1114,539,Protesting
+Viewer,N.I,1.68,21,F,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,1091,295,1148,534,Protesting
+Viewer,White,1.72,25,M,Face shield|face mask,Sweater,Shorts,Sneakers,None,No,No,None,Standing,546,101,771,651,Protesting
+Victim,Native,1.71,22,M,Cap,Sweater|backpack,Jeans,Sneakers,None,No,No,None,Crouched,820,122,955,628,Protesting
+Viewer,Native,1.68,19,F,Face shield|face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Standing,637,179,1006,692,Protesting
+Viewer,Black,1.74,23,M,Cap|face mask,T-shirt|backpack,Joggers,Sneakers,None,No,No,None,Standing,122,223,189,539,Protesting
+Viewer,White,1.72,24,M,Face mask,T-shirts,N.I,N.I,None,No,No,None,Standing,198,203,472,695,Protesting
+Viewer,White,1.71,26,M,Face mask,Coat,N.I,N.I,None,No,No,None,Standing,523,215,657,625,Protesting
+Viewer,White,1.74,29,M,Helmet|face mask,Shirt,N.I,N.I,None,No,No,None,Standing,615,45,1007,683,Protesting
+Viewer,Native,1.68,31,M,Helmet|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,903,275,994,499,Protesting
+Viewer,Native,1.73,26,M,Helmet|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,987,269,1037,413,Protesting
+Viewer,Native,1.75,28,M,Helmet|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,1176,256,1232,417,Protesting
+Viewer,White,1.70,26,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,42,204,101,397,Talking
+Aggressor,Native,1.73,26,M,Cap,T-shirt,Pants,Boots,None,No,No,None,Standing,152,144,328,712,Talking
+Aggressor,Native,1.75,38,M,None,T-shirt,Pants,Boots,None,No,No,None,Standing,22,33,405,694,Screaming
+Victim,White,1.76,33,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,308,323,390,697,Screaming
+Viewer,Native,1.73,26,M,Face mask,Sweater,Pants,N.I,None,No,No,None,Moving,16,275,58,412,Protesting
+Viewer,Native,1.65,27,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,62,275,168,491,Protesting
+Viewer,Native,1.66,33,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,429,230,501,457,Protesting
+Viewer,Native,1.70,32,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,501,218,544,443,Protesting
+Viewer,Native,1.74,26,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,537,228,645,448,Protesting
+Viewer,Native,1.70,23,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,553,192,600,326,Protesting
+Viewer,Black,1.68,19,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,655,222,706,438,Protesting
+Viewer,Black,1.68,18,M,Cap|face mask,Sweater,Joggers,N.I,None,No,No,None,Moving,701,235,810,554,Protesting
+Viewer,Native,1.66,27,M,Cap|face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,784,258,919,591,Protesting
+Viewer,Native,1.73,25,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,887,221,1002,578,Protesting
+Viewer,White,1.68,25,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,742,193,784,408,Protesting
+Viewer,Native,1.70,23,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,785,197,874,512,Protesting
+Viewer,Black,1.66,25,M,Cap|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,850,205,909,471,Protesting
+Viewer,Native,1.81,28,M,Cap|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,1157,222,1248,623,Protesting
+Law Officer,N.I,1.83,39,M,Helmet,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,168,212,283,693,Shooting
+Law Officer,N.I,1.79,41,M,Helmet,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,258,280,372,709,Shooting
+Law Officer,N.I,1.76,36,M,Helmet,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,345,260,587,705,Shooting
+Law Officer,N.I,1.77,45,M,Helmet,Jacket|shirt,Pants,N.I,None,No,Gun,None,Standing,815,248,1037,688,Shooting
+Law Officer,N.I,1.73,40,M,Helmet,Shirt,Pants,Boots,None,No,No,None,Standing,31,304,100,519,Talking
+Law Officer,N.I,1.75,36,M,Helmet,Shirt,Pants,Boots,None,No,No,None,Standing,205,282,309,536,Talking
+Law Officer,N.I,1.70,35,M,Helmet,Shirt,Pants,Boots,None,No,No,None,Standing,327,222,442,562,Talking
+Victim,Native,1.65,42,M,None,None,Pants,Sneakers,None,Yes,No,None,Standing,744,28,892,632,Idle
+Viewer,Black,1.73,36,M,Cap,Sweater,Jeans,Sneakers,None,No,No,None,Standing,914,80,1027,435,Idle
+Viewer,Black,1.68,39,M,Helmet,T-shirt|backpack,Jeans,Sneakers,None,No,No,None,Standing,1054,27,1183,444,Idle
+Law Officer,Native,1.75,33,M,Face mask,Shirt,N.I,N.I,None,No,No,None,Crouched,237,139,476,477,Guarding
+Victim,Native,1.62,56,F,Face mask,Sweater,N.I,N.I,None,Yes,No,None,Crouched,528,209,732,657,Idle
+Law Officer,Black,1.78,42,M,Helmet|face mask,Shirt,N.I,N.I,None,No,No,None,Standing,658,77,802,547,Guarding
+Viewer,White,1.79,29,M,Face shield|face mask,Sweater,N.I,N.I,None,No,No,None,Standing,810,13,1081,641,Idle
+Law Officer,N.I,1.79,33,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,235,169,320,665,Shooting
+Law Officer,Native,1.76,35,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,311,197,468,720,Shooting
+Law Officer,N.I,1.78,34,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,454,158,606,706,Shooting
+Law Officer,N.I,1.75,38,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,741,149,981,714,Shooting
+Viewer,Asian,1.75,27,M,Glasses|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,433,67,641,709,Talking
+Victim,Native,1.71,38,M,Cap|face mask,Sweater,Shorts,Sneakers,None,Yes,No,None,Moving,626,78,809,680,Idle
+Viewer,White,1.70,23,M,Glasses ,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,816,96,1019,713,Talking
+Viewer,Native,1.71,28,M,Face shield ,N.I,Jeans,N.I,None,No,No,Text,Standing,452,205,961,696,Protesting
+Viewer,Native,1.63,26,M,Helmet|face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,285,448,389,713,Protesting
+Viewer,White,1.72,29,M,Glasses,T-shirt,Jeans,N.I,None,No,No,None,Standing,344,69,658,714,Protesting
+Viewer,Native,1.68,43,F,Face mask,N.I,N.I,N.I,None,No,No,Text,Standing,79,430,224,571,Protesting
+Viewer,Native,1.69,33,F,Face mask,N.I,N.I,N.I,None,No,No,Text,Standing,53,552,224,696,Protesting
+Viewer,Native,1.66,26,F,Face shield|face mask,N.I,N.I,N.I,None,No,No,Text,Standing,207,571,322,720,Protesting
+Viewer,Native,1.68,35,M,Face mask,N.I,N.I,N.I,None,No,No,Text,Standing,102,273,202,453,Protesting
+Victim,Black,1.73,27,F,None,Blouse,N.I,N.I,None,No,No,None,Standing,344,65,540,669,Talking
+Aggressor,White,1.74,46,M,None,T-shirt,N.I,N.I,None,No,No,None,Standing,631,187,806,621,Talking
+Victim,Black,1.78,34,M,Cap,T-shirt,N.I,N.I,None,No,No,None,Standing,544,1,1219,696,Talking
+Aggressor,White,1.69,53,F,None,Blouse,N.I,N.I,None,No,No,None,Standing,661,269,780,487,Talking
+Aggressor,White,1.73,64,M,None,Shirt,N.I,N.I,None,No,No,None,Standing,744,253,916,575,Talking
+Viewer,White,1.72,26,F,None,Blouse,Shorts,Shoes,None,No,No,None,Moving,307,107,379,318,Walking
+Aggressor,Native,1.66,30,M,None,Shirt,Jeans,N.I,None,No,Other,None,Moving,356,116,415,288,Fighting
+Aggressor,Native,1.69,31,M,Cap,Sweater,Jeans,N.I,None,No,Other,None,Moving,434,112,516,283,Fighting
+Aggressor,Native,1.68,35,M,Cap,Sweater,Pants,Sneakers,None,No,Other,None,Moving,171,59,271,313,Fighting
+Viewer,White,1.68,19,F,None,Blouse,Shorts,N.I,None,No,No,None,Moving,246,69,415,351,Walking
+Viewer,White,1.73,22,F,None,Blouse,Shorts,N.I,None,No,No,None,Moving,356,29,463,348,Walking
+Viewer,Native,1.70,31,M,Cap,Sweater,N.I,N.I,None,No,No,None,Moving,368,146,553,353,Walking
+Victim,Native,1.67,26,F,None,Sweater,Shorts,Shoes,None,No,No,None,Crouched,66,206,132,343,Screaming
+Viewer,N.I,1.72,27,M,Helmet,Jacket,Pants,Boots,None,No,No,None,Moving,245,125,330,294,Walking
+Victim,Native,1.70,33,M,None,Coat,N.I,N.I,None,No,No,None,Standing,246,49,397,345,Talking
+Aggressor,Native,1.70,42,M,None,Jacket,N.I,N.I,None,No,No,None,Standing,359,51,561,351,Fighting
+Victim,White,1.72,25,F,None,Blouse,Shorts,N.I,None,No,No,None,Moving,165,44,274,346,Fighting
+Victim,White,1.73,22,F,None,Blouse,Shorts,N.I,None,No,No,None,Moving,290,53,447,352,Fighting
+Aggressor,Native,1.68,36,F,None,Coat,Pants,N.I,None,No,Other,None,Moving,464,46,577,355,Fighting
+Viewer,Native,1.71,42,M,None,Jacket|shirt,Pants,N.I,None,No,No,None,Standing,524,35,629,349,Talking
+Viewer,Native,1.78,45,M,None,Coat,N.I,N.I,None,No,No,None,Standing,58,3,271,343,Talking
+Viewer,Native,1.70,33,M,Cap,Coat,Joggers,Sneakers,None,No,No,None,Moving,292,17,390,345,Walking
+Viewer,Native,1.69,26,M,Beanie ,Coat,N.I,N.I,None,No,No,None,Moving,355,35,439,333,Walking
+Viewer,Native,1.66,37,F,None,Coat,Pants,N.I,None,No,No,None,Moving,412,55,492,332,Walking
+Victim,White,1.70,23,F,None,Sweater,Skirt,N.I,None,No,No,None,Standing,49,107,260,350,Talking
+Victim,White,1.72,26,F,None,Sweater,Skirt,N.I,None,No,No,None,Standing,182,47,311,333,Talking
+Victim,White,1.68,18,F,None,Sweater,Skirt,N.I,None,No,No,None,Standing,304,62,429,348,Talking
+Victim,White,1.66,19,F,None,Sweater,N.I,N.I,None,No,No,None,Standing,387,109,597,344,Talking
+Aggressor,White,1.73,26,M,Cap,T-shirt,Shorts,N.I,None,No,No,None,Standing,426,75,654,704,Talking
+Aggressor,Native,1.70,23,F,None,Sweater,Jeans,N.I,None,No,No,None,Standing,571,192,728,695,Talking
+Aggressor,White,1.70,19,F,None,Sweater,Jeans,N.I,None,No,No,None,Standing,772,186,855,557,Talking
+Aggressor,Native,1.66,23,F,None,Sweater,Joggers,N.I,None,No,No,None,Standing,424,236,566,680,Talking
+Aggressor,White,1.75,27,M,None,Sweater,Shorts,N.I,None,No,No,None,Standing,566,147,772,693,Talking
+Aggressor,White,1.74,24,F,None,Blouse,Pants,N.I,None,No,No,None,Standing,702,157,846,657,Talking
+Viewer,Native,1.74,26,F,None,Blouse,Pants,N.I,None,No,No,None,Standing,554,174,716,673,Talking
+Aggressor,White,1.71,23,F,Glasses,Sweater,Joggers,N.I,None,No,No,None,Standing,696,205,881,688,Talking
+Viewer,White,1.69,29,F,None,Blouse,Pants,Sneakers,Tattoos,No,No,None,Moving,589,197,768,706,Talking
+Viewer,Native,1.73,33,M,None,T-shirt,N.I,Sneakers,None,No,No,None,Moving,741,161,823,596,Talking
+Viewer,Native,1.72,30,F,None,Jacket,N.I,N.I,None,No,No,None,Standing,98,121,285,549,Talking
+Viewer,Native,1.70,27,F,None,Jacket,N.I,N.I,None,No,No,None,Standing,241,170,422,544,Talking
+Viewer,White,1.59,28,F,None,Blouse,N.I,N.I,Tattoos,No,No,None,Standing,402,244,559,590,Talking
+Viewer,White,1.70,27,F,None,Blouse,Skirt,N.I,None,No,No,None,Standing,601,135,775,625,Talking
+Viewer,White,1.71,25,F,None,Blouse,Skirt,N.I,Piercings,No,No,None,Standing,748,101,939,619,Talking
+Viewer,White,1.69,26,F,None,Blouse,Skirt,N.I,Piercings,No,No,None,Standing,988,105,1192,651,Talking
+Aggressor,Black,1.68,38,F,None,Blouse,N.I,N.I,None,No,No,None,Standing,106,175,446,710,Screaming
+Aggressor,White,1.68,37,F,None,Blouse,N.I,N.I,None,No,No,None,Standing,783,131,1246,717,Screaming
+Victim,White,1.67,34,F,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,380,269,576,701,Talking
+Viewer,White,1.68,39,F,None,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,535,179,663,574,Talking
+Viewer,White,1.68,32,F,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,681,218,785,526,Talking
+Viewer,White,1.73,29,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,846,147,928,477,Talking
+Viewer,White,1.74,32,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,933,149,1024,569,Talking
+Viewer,White,1.70,34,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,1016,175,1141,628,Talking
+Viewer,White,1.71,28,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,1105,148,1267,696,Talking
+Aggressor,White,1.73,30,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Standing,32,99,253,639,Screaming
+Viewer,White,1.70,35,F,None,T-shirt,N.I,N.I,None,No,No,None,Standing,219,253,365,554,Talking
+Viewer,White,1.71,32,M,None,Shirt,N.I,N.I,None,No,No,None,Standing,532,136,858,691,Talking
+Aggressor,White,1.67,36,M,Helmet,T-shirt,N.I,N.I,None,No,No,None,Standing,836,139,1146,671,Talking
+Viewer,White,1.68,30,M,Face mask,Sweater,N.I,N.I,None,No,No,Images and Text,Standing,552,125,750,706,Protesting
+Viewer,White,1.73,27,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Standing,739,462,859,705,Protesting
+Viewer,Native,1.74,28,M,Glasses|face mask,Sweater|backpack,N.I,N.I,None,No,No,None,Standing,918,444,980,640,Protesting
+Viewer,Native,1.70,27,F,Face mask,Sweater|backpack,N.I,N.I,None,No,No,Text,Standing,1013,223,1271,708,Protesting
+Viewer,Native,1.73,24,M,Cap|face mask,Sports T-shirt,Joggers,Sneakers,None,No,No,Text,Standing,13,112,187,699,Protesting
+Viewer,Native,1.67,28,F,Cap|face mask,Sports T-shirt,N.I,N.I,None,No,No,Text,Standing,380,179,519,566,Protesting
+Viewer,Native,1.68,36,M,Hat,Shirt,N.I,N.I,None,No,No,Text,Standing,587,88,674,475,Protesting
+Viewer,Native,1.67,45,M,Face mask,Shirt,N.I,N.I,None,No,No,Text,Standing,691,136,757,486,Protesting
+Viewer,Native,1.66,46,M,Face mask,Shirt,N.I,N.I,None,No,No,Text,Standing,754,119,822,426,Protesting
+Viewer,White,1.68,50,M,Face mask,Shirt,N.I,N.I,None,No,No,Text,Standing,926,134,1002,439,Protesting
+Viewer,White,1.70,21,M,Face mask,T-shirt,N.I,N.I,None,No,No,Text,Standing,1044,114,1096,435,Protesting
+Viewer,White,1.70,26,M,Face mask,T-shirt,N.I,N.I,None,No,No,Text,Standing,1116,105,1184,348,Protesting
+Viewer,White,1.73,29,F,Face mask,Sweater,Jeans,Sneakers,None,No,No,Text,Standing,1207,143,1275,582,Protesting
+Viewer,White,1.72,24,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Standing,42,66,331,565,Protesting
+Viewer,Native,1.72,26,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,372,78,671,636,Protesting
+Viewer,Native,1.70,21,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Standing,774,61,1145,618,Protesting
+Viewer,White,1.59,25,F,Glasses|face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Moving,20,182,139,605,Protesting
+Viewer,White,1.68,19,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,135,167,237,505,Protesting
+Viewer,White,1.65,20,F,Face mask,Sweater,Jeans,Sneakers,None,No,No,Text,Moving,209,186,327,551,Protesting
+Viewer,White,1.70,26,F,Face shield|face mask,Coat,Jeans,Sneakers,None,No,No,None,Moving,328,158,466,596,Protesting
+Viewer,Native,1.73,28,F,Face mask,Coat,Joggers,Sneakers,None,No,No,Text,Moving,416,87,533,566,Protesting
+Viewer,Native,1.65,25,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,Text,Moving,563,158,658,580,Protesting
+Viewer,White,1.70,26,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,632,169,816,700,Protesting
+Viewer,Native,1.75,30,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,815,143,979,599,Protesting
+Viewer,White,1.72,19,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Moving,937,171,1032,534,Protesting
+Viewer,White,1.67,18,F,Face mask,Sweater,Pants,Sneakers,None,No,No,Text,Moving,1022,209,1106,566,Protesting
+Viewer,Native,1.69,23,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,1145,130,1275,653,Protesting
+Viewer,Native,1.70,30,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,153,291,320,647,Protesting
+Viewer,White,1.63,29,F,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,305,367,527,700,Protesting
+Viewer,Native,1.71,22,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,431,282,603,686,Protesting
+Viewer,Native,1.72,18,M,Face mask,T-shirt,N.I,N.I,None,No,No,Text,Moving,576,280,701,641,Protesting
+Viewer,White,1.72,23,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,580,214,701,549,Protesting
+Viewer,Native,1.68,21,F,Face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,665,341,876,697,Protesting
+Viewer,Native,1.75,27,M,Face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Moving,803,173,923,528,Protesting
+Viewer,Native,1.71,28,M,Face mask,Sweater|backpack,N.I,N.I,None,No,No,None,Moving,849,122,940,454,Protesting
+Viewer,Native,1.75,30,M,Helmet|face mask,Sweater,N.I,N.I,None,No,No,None,Moving,915,193,1131,686,Protesting
+Viewer,Native,1.74,25,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,1129,92,1279,587,Protesting
+Viewer,Native,1.71,25,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Seated,1,267,61,525,Idle
+Viewer,Native,1.73,18,F,Face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Seated,76,288,196,630,Idle
+Viewer,Native,1.70,19,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Seated,228,239,375,557,Idle
+Viewer,Native,1.71,20,F,Face mask,Sweater,N.I,N.I,None,No,No,None,Seated,211,380,407,658,Idle
+Viewer,Native,1.67,20,F,Face mask,T-shirt,N.I,N.I,None,No,No,None,Seated,372,278,545,665,Idle
+Viewer,Native,1.68,37,F,Face mask,Coat,Jeans,N.I,None,No,No,None,Seated,576,317,714,632,Idle
+Viewer,Native,1.73,35,F,Face mask,Coat,Jeans,N.I,None,No,No,None,Seated,697,308,805,618,Idle
+Viewer,White,1.74,40,F,Face mask,Coat,Pants,N.I,None,No,No,None,Seated,589,212,687,448,Idle
+Viewer,White,1.70,29,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Crouched,787,197,1091,635,Carrying
+Viewer,Black,1.73,23,M,Cap|face mask,Sweater,Joggers,N.I,None,No,No,None,Standing,874,38,1092,436,Protesting
+Viewer,Black,1.70,28,M,Cap|face mask,Sweater,Jeans,N.I,None,No,No,None,Standing,670,21,791,273,Protesting
+Viewer,Native,1.72,30,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Standing,333,79,650,660,Protesting
+Viewer,Black,1.68,22,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Standing,535,175,659,452,Protesting
+Viewer,Black,1.70,29,M,Cap|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,648,113,816,560,Protesting
+Viewer,Native,1.75,23,F,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,663,64,1180,666,Protesting
+Viewer,Native,1.72,30,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Moving,70,141,145,349,Protesting
+Viewer,Native,1.66,27,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,110,225,249,518,Protesting
+Viewer,Native,1.69,28,M,Cap|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,161,262,402,597,Protesting
+Viewer,Native,1.68,27,M,Cap|face mask,Sweater,Jeans,Sneakers,None,No,No,Text,Moving,355,153,407,340,Protesting
+Viewer,Native,1.68,24,M,Cap|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,350,230,501,565,Protesting
+Viewer,Native,1.73,28,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,476,214,578,544,Protesting
+Viewer,White,1.70,36,M,Face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,566,221,653,565,Protesting
+Viewer,White,1.67,45,M,Face mask,T-shirt,Joggers,Sneakers,None,No,No,Text,Moving,611,236,839,639,Protesting
+Viewer,White,1.72,46,M,Face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,706,179,792,488,Protesting
+Viewer,White,1.70,50,M,Face mask,Coat,Joggers,Sneakers,None,No,No,Text,Moving,811,188,863,490,Protesting
+Viewer,White,1.70,21,M,Face mask,Coat,Joggers,Sneakers,None,No,No,None,Moving,874,195,971,530,Protesting
+Viewer,Native,1.72,26,F,Face mask,Sweater,Shorts,Sneakers,None,No,No,None,Moving,952,258,1092,534,Protesting
+Viewer,Native,1.73,29,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,1093,210,1198,536,Protesting
+Viewer,White,1.68,24,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,Text,Moving,1210,197,1270,519,Protesting
+Viewer,White,1.71,26,M,Face mask,Sweater,Shorts,Sneakers,None,No,No,None,Moving,926,373,1087,625,Protesting
+Viewer,White,1.78,21,F,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,983,331,1261,691,Protesting
+Viewer,Native,1.73,24,F,Face mask,Sweater,Joggers,N.I,None,No,No,Text,Standing,155,13,518,688,Protesting
+Viewer,Native,1.65,25,F,Face mask,Sweater,N.I,N.I,None,No,No,Text,Standing,555,270,694,697,Protesting
+Viewer,Native,1.71,27,M,Face mask,Sweater,Joggers,N.I,None,No,No,None,Standing,681,230,774,604,Protesting
+Viewer,Native,1.70,28,F,Cap|face mask,T-shirt|backpack,Jeans,N.I,None,No,No,Text,Standing,778,40,1109,695,Protesting
+Viewer,Native,1.80,32,M,Cap|face mask,T-shirt|backpack,Jeans,N.I,None,No,No,None,Standing,1106,88,1262,647,Protesting
+Viewer,Native,1.68,28,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Standing,119,280,211,586,Protesting
+Viewer,Black,1.67,36,M,Cap|face mask,T-shirt,Jeans,N.I,None,No,No,Images and Text,Standing,294,127,632,677,Protesting
+Viewer,Black,1.66,45,M,Face mask,T-shirt|backpack,Jeans,N.I,None,No,No,None,Standing,635,352,692,547,Protesting
+Viewer,Black,1.68,46,M,Face mask,T-shirt|backpack,Jeans,N.I,None,No,No,None,Standing,679,332,767,571,Protesting
+Viewer,Native,1.70,35,M,Face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Standing,757,319,897,595,Protesting
+Viewer,White,1.70,21,M,Face mask,Sweater|backpack,N.I,N.I,None,No,No,None,Standing,967,339,1083,613,Protesting
+Viewer,White,1.73,22,M,Face mask,Sweater,Joggers,N.I,None,No,No,None,Standing,1059,296,1149,490,Protesting
+Viewer,Native,1.72,26,F,Face shield|face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Moving,1152,249,1271,590,Protesting
+Law Officer,N.I,1.73,36,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,324,143,368,356,Guarding
+Law Officer,N.I,1.68,30,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,378,119,455,377,Guarding
+Law Officer,N.I,1.71,31,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,449,109,532,396,Guarding
+Law Officer,N.I,1.78,28,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,540,103,645,406,Guarding
+Law Officer,N.I,1.74,37,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,663,112,729,335,Guarding
+Law Officer,N.I,1.65,34,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,741,88,828,338,Guarding
+Law Officer,N.I,1.71,38,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,842,109,944,374,Guarding
+Law Officer,N.I,1.70,36,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,933,122,1001,365,Guarding
+Law Officer,N.I,1.78,45,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,997,110,1075,314,Guarding
+Law Officer,N.I,1.78,46,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Moving,1120,78,1249,413,Guarding
+Victim,Native,1.75,28,M,None,T-shirt,Shorts,Sneakers,None,Yes,No,None,Crawling,245,280,733,474,Idle
+Viewer,Native,1.73,29,M,Helmet|face mask,T-shirt|backpack,Jeans,Sneakers,None,No,No,None,Crawling,370,225,498,621,Idle
+Viewer,Black,1.70,23,M,Cap|face mask,Shirt,Pants,Sneakers,None,No,No,None,Crawling,416,232,632,664,Idle
+Victim,Native,1.68,31,M,Cap|face mask,T-shirt,Shorts,Sneakers,None,Yes,No,None,Crawling,587,354,749,657,Idle
+Viewer,White,1.72,27,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crawling,696,127,872,667,Idle
+Law Officer,N.I,1.71,33,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,670,236,728,523,Shooting
+Law Officer,N.I,1.70,35,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,753,201,832,500,Shooting
+Law Officer,N.I,1.73,34,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Gun,None,Standing,806,186,903,522,Shooting
+Aggressor,N.I,1.79,38,M,None,T-shirt,Pants,Sneakers,None,No,Other,None,Moving,265,325,346,426,Fighting
+Aggressor,N.I,1.81,42,M,None,T-shirt,Pants,Sneakers,None,No,Other,None,Moving,157,317,222,458,Fighting
+Law Officer,Native,1.72,35,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Standing,267,239,346,530,Guarding
+Law Officer,Native,1.67,34,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Standing,358,260,419,569,Guarding
+Law Officer,Black,1.69,39,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Standing,516,247,589,461,Guarding
+Law Officer,N.I,1.70,31,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Standing,602,253,667,492,Guarding
+Law Officer,N.I,1.63,27,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Standing,674,226,749,561,Guarding
+Law Officer,N.I,1.71,36,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,758,208,837,639,Guarding
+Law Officer,N.I,1.72,42,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,861,243,983,583,Guarding
+Law Officer,White,1.72,45,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,1000,215,1105,635,Guarding
+Law Officer,N.I,1.68,51,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,1087,244,1188,600,Guarding
+Law Officer,N.I,1.75,31,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,1155,241,1233,614,Guarding
+Viewer,White,1.71,38,M,Face mask,N.I,N.I,N.I,None,No,No,None,Standing,189,583,281,720,Screaming
+Viewer,N.I,1.75,36,M,Face mask,N.I,N.I,N.I,None,No,No,None,Standing,472,499,606,720,Screaming
+Viewer,N.I,1.74,33,M,Cap|face mask,N.I,N.I,N.I,None,No,No,None,Standing,603,375,762,680,Screaming
+Viewer,Native,1.72,25,M,Glasses|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,220,54,394,571,Walking
+Viewer,White,1.75,28,M,Hat|face mask,Sweater,N.I,N.I,None,No,No,None,Standing,355,92,526,386,Walking
+Viewer,Native,1.68,29,M,Mask,Sweater,N.I,N.I,None,No,No,None,Standing,480,135,665,662,Walking
+Viewer,Native,1.78,30,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Standing,714,109,849,444,Walking
+Viewer,Native,1.76,34,M,Cap|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,796,41,1003,683,Walking
+Viewer,Native,1.73,29,M,Tied T-shirt|face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Standing,1053,86,1257,653,Walking
+Victim,Native,1.72,18,M,Face mask,Sweater|backpack,N.I,N.I,None,No,No,None,Standing,1,49,189,506,Walking
+Victim,White,1.70,19,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Crouched,252,110,584,612,Walking
+Victim,White,1.73,21,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Standing,566,30,822,670,Walking
+Viewer,White,1.70,34,M,Helmet|glasses|face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,713,27,1228,687,Walking
+Viewer,Native,1.68,19,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,502,290,627,506,Guarding
+Viewer,Native,1.70,18,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,591,251,667,469,Guarding
+Viewer,Native,1.70,23,M,Face mask,Sweater,Pants,Sneakers,None,No,No,None,Crouched,615,300,706,488,Guarding
+Viewer,Native,1.73,30,M,Cap|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Crouched,665,284,731,505,Guarding
+Viewer,White,1.72,29,M,Cap|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,750,222,820,486,Guarding
+Viewer,White,1.72,22,M,Cap|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,771,325,878,545,Guarding
+Viewer,Native,1.70,18,M,Cap|face mask,Sweater,Joggers,N.I,None,No,No,None,Crouched,887,271,991,513,Guarding
+Viewer,Native,1.59,23,M,Cap|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Crouched,996,219,1122,536,Guarding
+Viewer,Black,1.68,21,M,Face mask,Sweater,Shorts,Sneakers,None,No,No,None,Crouched,1188,244,1255,518,Guarding
+Law Officer,Black,1.75,34,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,268,465,372,612,Guarding
+Law Officer,Black,1.73,36,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Crouched,442,349,544,569,Guarding
+Law Officer,Native,1.69,29,M,Helmet,Jacket|shirt,Pants,Boots,None,No,Other,None,Standing,636,330,713,621,Guarding
+Viewer,Native,1.76,26,M,Cap|face mask,T-shirt,Joggers,Sneakers,None,No,No,Text,Standing,236,249,292,492,Protesting
+Viewer,White,1.79,28,M,Cap|face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Standing,297,212,344,483,Protesting
+Viewer,White,1.73,26,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,Text,Standing,352,247,436,552,Protesting
+Viewer,Native,1.69,26,M,Cap|face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Standing,427,225,511,538,Protesting
+Viewer,Native,1.68,38,M,Cap|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,484,240,579,487,Protesting
+Viewer,White,1.74,33,M,Cap|face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Standing,537,247,644,501,Protesting
+Viewer,White,1.71,26,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Standing,614,264,746,609,Protesting
+Viewer,Native,1.68,27,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,Text,Standing,905,238,992,528,Protesting
+Viewer,Native,1.67,33,M,Cap|face mask,Sweater,Pants,Sneakers,None,No,No,None,Standing,992,219,1114,562,Protesting
+Viewer,Black,1.74,31,M,None,Coat,Pants,Sneakers,None,No,No,None,Standing,305,284,432,664,Protesting
+Law Officer,Native,1.72,27,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,463,283,561,499,Guarding
+Law Officer,White,1.75,36,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,601,318,681,496,Guarding
+Viewer,Native,1.68,42,M,Jeans,T-shirt,Jeans,Sneakers,None,No,No,None,Standing,609,287,814,682,Screaming
+Law Officer,Black,1.78,45,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,801,283,874,475,Guarding
+Law Officer,Black,1.76,51,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,891,286,965,480,Guarding
+Viewer,Native,1.73,31,M,Cap|face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Standing,987,273,1253,696,Staring
+Viewer,Native,1.68,24,M,Helmet|face mask,Sweater,Pants,Sneakers,None,No,No,None,Moving,6,274,45,538,Screaming
+Viewer,Native,1.73,37,M,Face mask,T-shirt|backpack,Pants,Sneakers,None,No,No,None,Moving,48,290,144,664,Staring
+Viewer,Native,1.70,35,M,Helmet|face mask,T-shirt|backpack,Shorts,Sneakers,None,No,No,None,Moving,113,213,389,720,Staring
+Viewer,Native,1.68,24,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,313,271,368,543,Staring
+Viewer,Native,1.70,28,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,379,243,459,540,Staring
+Viewer,Native,1.73,23,M,Cap|face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,485,282,648,627,Staring
+Viewer,Native,1.68,25,M,Cap|face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,507,167,620,573,Screaming
+Viewer,Native,1.70,27,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,632,269,728,531,Screaming
+Viewer,Native,1.70,31,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,810,235,891,544,Staring
+Viewer,Native,1.68,27,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,901,238,1042,639,Screaming
+Viewer,Native,1.75,32,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,1176,222,1275,556,Screaming
+Law Officer,Black,1.69,33,M,Helmet|face mask,Sweater,N.I,N.I,None,No,Other,None,Moving,67,206,226,608,Walking
+Law Officer,Native,1.72,31,M,Helmet|face mask,Sweater,N.I,N.I,None,No,Other,None,Moving,180,179,254,631,Walking
+Law Officer,Native,1.70,29,M,Helmet|face mask,Sweater,N.I,N.I,None,No,Other,None,Moving,248,178,400,641,Walking
+Law Officer,Native,1.64,35,M,Helmet|face mask,Sweater,N.I,N.I,None,No,Other,None,Moving,422,135,639,699,Walking
+Law Officer,Black,1.72,46,M,Helmet|face mask,Sweater,N.I,N.I,None,No,Other,None,Moving,607,49,854,661,Walking
+Law Officer,Black,1.74,40,M,Helmet|face mask,Sweater,N.I,N.I,None,No,Other,None,Moving,793,73,1059,628,Walking
+Viewer,Native,1.73,30,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,48,234,167,649,Protesting
+Viewer,Native,1.73,32,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,Text,Moving,118,149,187,506,Protesting
+Viewer,Black,1.80,42,M,Face mask,Sweater,Shorts,Sneakers,None,No,No,None,Moving,161,177,244,534,Protesting
+Viewer,Native,1.72,23,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,248,243,324,541,Protesting
+Viewer,White,1.73,27,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,Text,Moving,323,195,380,525,Protesting
+Viewer,Native,1.68,22,F,Face mask,T-shirt,Jeans,N.I,None,No,No,Text,Moving,372,140,509,660,Protesting
+Viewer,Native,1.72,26,M,Face mask,Sweater,Pants,N.I,None,No,No,Text,Moving,463,164,555,575,Protesting
+Viewer,Black,1.71,27,M,Face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,531,167,648,570,Protesting
+Viewer,White,1.69,22,F,Face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,648,234,832,654,Protesting
+Viewer,Native,1.75,33,M,Face mask,Sweater,Joggers,N.I,None,No,No,None,Moving,776,187,879,495,Protesting
+Viewer,White,1.78,30,M,Cap|face mask,Sweater,Pants,N.I,None,No,No,Text,Moving,915,97,1196,666,Protesting
+Viewer,Native,1.70,35,M,None,Sweater,N.I,Sneakers,None,No,No,Text,Moving,168,273,197,410,Protesting
+Viewer,Native,1.72,42,M,Cap|face mask,Sweater,Pants,N.I,None,No,No,None,Moving,235,265,285,465,Protesting
+Viewer,Native,1.75,37,M,Cap|face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,293,249,355,453,Protesting
+Viewer,Native,1.71,35,M,Face mask,Sweater,Shorts,N.I,None,No,No,Text,Moving,361,284,420,512,Protesting
+Viewer,Native,1.68,32,M,Face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,411,297,468,525,Protesting
+Viewer,White,1.70,28,M,Face mask,Sweater,Pants,Sneakers,None,No,No,Text,Moving,462,299,503,482,Protesting
+Viewer,Native,1.75,33,M,Face mask,T-shirt,N.I,Sneakers,None,No,No,Text,Moving,528,282,585,484,Protesting
+Viewer,White,1.71,42,M,Face mask,T-shirt,Pants,N.I,None,No,No,Text,Moving,591,275,637,465,Protesting
+Viewer,Black,1.70,35,F,Face mask,T-shirt,Pants,N.I,None,No,No,Text,Moving,585,330,692,590,Protesting
+Viewer,Native,1.65,41,M,Cap|face mask,T-shirt,Pants,N.I,None,No,No,None,Moving,683,265,754,503,Protesting
+Viewer,Native,1.80,23,M,Helmet|face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,720,293,792,588,Protesting
+Viewer,White,1.70,32,M,None,Sweater,N.I,N.I,None,No,No,Text,Moving,771,283,832,510,Protesting
+Viewer,Native,1.63,25,F,Cap|face mask,Sweater,N.I,Sneakers,None,No,No,Text,Moving,896,284,962,574,Protesting
+Viewer,Native,1.72,26,M,Face mask,Sweater,N.I,Sneakers,None,No,No,Text,Moving,903,321,1049,714,Protesting
+Viewer,White,1.70,32,M,Face mask,Coat,Pants,Sneakers,None,No,No,Text,Moving,1048,303,1120,527,Protesting
+Viewer,White,1.68,41,M,Face mask,Coat,Pants,Sneakers,None,No,No,None,Moving,1149,223,1210,445,Protesting
+Viewer,White,1.73,23,M,Helmet|face mask,Sweater,Jeans,N.I,None,No,No,None,Moving,28,241,201,658,Protesting
+Viewer,Native,1.67,58,F,None,Sweater,Jeans,Sneakers,None,No,No,Text,Moving,103,208,226,544,Protesting
+Viewer,White,1.70,36,M,Face mask,Sweater,Pants,Sneakers,None,No,No,Text,Moving,209,218,355,628,Protesting
+Viewer,Native,1.66,36,M,Face mask,Sweater,Shorts,Sneakers,None,No,No,None,Moving,303,275,367,579,Protesting
+Viewer,White,1.71,23,M,Face mask,Sports T-shirt,Shorts,Sneakers,None,No,No,None,Moving,340,231,448,593,Protesting
+Viewer,Native,1.68,25,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,Text,Moving,419,243,529,586,Protesting
+Viewer,Black,1.73,28,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,479,312,633,660,Protesting
+Viewer,White,1.70,31,M,None,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,642,306,752,631,Protesting
+Law Officer,Native,1.72,43,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,160,38,258,298,Guarding
+Law Officer,Native,1.68,40,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,255,96,310,265,Guarding
+Viewer,Native,1.69,39,M,Helmet|face mask,Shirt,Jeans,Shoes,None,No,No,None,Moving,325,66,419,301,Walking
+Viewer,Native,1.66,60,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,53,75,151,299,Walking
+Viewer,Native,1.76,47,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,142,101,240,327,Walking
+Victim,Native,1.79,54,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,245,85,338,286,Walking
+Viewer,Native,1.73,18,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,313,94,431,318,Walking
+Viewer,Native,1.69,46,F,Cap|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,414,87,554,323,Walking
+Victim,Native,1.68,22,M,None,Sweater|backpack,N.I,N.I,None,No,No,None,Moving,82,23,247,313,Walking
+Viewer,Native,1.74,37,M,Face mask,Shirt,N.I,N.I,None,No,No,None,Moving,269,41,403,307,Walking
+Viewer,Black,1.71,19,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,391,63,471,266,Walking
+Law Officer,Native,1.68,30,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,38,112,84,251,Walking
+Law Officer,Native,1.67,31,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,71,92,119,216,Walking
+Law Officer,Native,1.69,30,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,114,110,160,268,Walking
+Law Officer,Black,1.74,33,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,166,105,236,237,Walking
+Law Officer,Black,1.64,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,278,88,319,209,Walking
+Law Officer,Native,1.68,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,325,57,364,157,Walking
+Law Officer,Native,1.73,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,362,66,388,145,Walking
+Law Officer,Black,1.64,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Standing,416,86,450,182,Walking
+Law Officer,Native,1.66,34,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,395,109,447,262,Walking
+Law Officer,White,1.80,44,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,449,96,506,260,Walking
+Viewer,Native,1.74,37,F,None,Shirt,Jeans,N.I,None,No,No,None,Moving,460,73,492,146,Staring
+Viewer,Native,1.67,28,M,None,Blouse,Jeans,N.I,None,No,No,None,Standing,492,62,514,150,Staring
+Law Officer,Black,1.69,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,519,69,538,145,Walking
+Law Officer,Native,1.74,35,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,556,77,586,155,Walking
+Law Officer,Native,1.64,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,590,99,635,277,Walking
+Law Officer,Native,1.68,31,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,6,228,162,664,Guarding
+Law Officer,Native,1.67,27,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Moving,118,166,185,414,Guarding
+Viewer,Black,1.69,26,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,205,186,313,583,Walking
+Viewer,Native,1.74,43,M,Face mask,Shirt,Jeans,Sneakers,None,No,No,None,Moving,646,49,750,288,Walking
+Viewer,White,1.64,37,M,Face mask,Blouse,Jeans,Sneakers,None,No,No,None,Moving,757,49,810,257,Walking
+Viewer,Native,1.68,36,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,803,64,865,303,Walking
+Viewer,Native,1.72,40,F,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,883,25,957,296,Walking
+Viewer,White,1.70,42,F,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,955,36,1020,275,Walking
+Law Officer,White,1.79,51,M,Helmet,Sweater,Pants,Boots,None,No,Gun,None,Standing,980,15,1080,244,Talking
+Viewer,Black,1.73,33,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,245,375,419,688,Talking
+Viewer,Native,1.64,34,M,Face mask,T-shirt,N.I,N.I,None,No,No,Text,Moving,471,77,735,699,Protesting
+Viewer,Native,1.66,34,F,Tied T-shirt|face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,642,445,818,691,Protesting
+Viewer,Native,1.80,45,F,Tied T-shirt|face mask,T-shirt,N.I,N.I,None,No,No,Text,Moving,959,386,1202,719,Protesting
+Viewer,White,1.74,40,M,Face mask,T-shirt,N.I,N.I,None,No,No,Text,Moving,241,32,831,691,Protesting
+Viewer,White,1.67,23,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,629,431,853,704,Protesting
+Viewer,White,1.69,22,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,839,480,1013,691,Protesting
+Viewer,White,1.74,30,F,Glasses|face mask,Blouse ,N.I,N.I,None,No,No,None,Moving,1044,532,1174,691,Protesting
+Viewer,Native,1.64,26,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Moving,1146,475,1255,688,Protesting
+Viewer,Native,1.72,22,M,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,446,356,518,547,Protesting
+Viewer,Black,1.68,43,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,501,369,558,532,Protesting
+Viewer,Native,1.69,23,M,Face mask,Sweater|backpack,Shorts,Sneakers,None,No,No,None,Moving,537,386,626,582,Protesting
+Viewer,Native,1.66,40,M,Face mask,Shirt,Shorts,Sneakers,None,No,No,None,Moving,688,349,765,577,Protesting
+Viewer,Native,1.76,16,M,Face mask,T-shirt,Shorts,Sneakers,None,No,No,None,Moving,802,393,893,619,Protesting
+Viewer,Native,1.79,14,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,1066,384,1180,621,Protesting
+Viewer,White,1.74,19,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,41,139,229,648,Protesting
+Viewer,Native,1.69,23,F,Face mask,T-shirt|backpack,N.I,N.I,None,No,No,None,Moving,149,221,362,704,Protesting
+Viewer,Native,1.74,24,M,Face mask,Sports T-shirt,N.I,N.I,None,No,No,None,Moving,414,239,494,486,Protesting
+Viewer,Black,1.64,26,M,Face mask,Sweater,Shorts,N.I,None,No,No,None,Moving,453,188,709,706,Protesting
+Viewer,Native,1.66,33,M,Face mask,Sweater,Joggers,N.I,None,No,No,None,Moving,566,197,665,423,Protesting
+Viewer,Native,1.71,35,F,Face mask,Shirt,Joggers,N.I,None,No,No,None,Moving,701,248,784,465,Protesting
+Viewer,Black,1.74,42,M,Face mask,Sweater,Pants,Shoes,None,No,No,None,Moving,755,232,911,673,Protesting
+Law Officer,Native,1.73,27,M,Cap|face mask,Sweater,N.I,N.I,None,No,No,None,Moving,846,84,1185,714,Talking
+Viewer,Native,1.71,30,M,Helmet,T-shirt|backpack,Shorts,Sneakers,None,No,No,None,Moving,27,49,231,573,Talking
+Viewer,Native,1.68,38,M,Face mask,Sweater|backpack,Joggers,Sneakers,None,No,No,None,Moving,276,92,498,599,Talking
+Viewer,Black,1.70,26,F,Face mask,Seater,Joggers,N.I,None,No,No,None,Moving,454,110,550,564,Talking
+Law Officer,Native,1.75,29,M,Cap|face mask,Sweater,Pants,N.I,None,No,No,None,Moving,480,23,771,664,Talking
+Viewer,Native,1.71,32,M,Face mask,Shirt|backpack,Jeans,Sneakers,None,No,No,None,Moving,931,77,1120,654,Talking
+Law Officer,Black,1.70,33,M,Cap|face mask,Sweater,Pants,N.I,None,No,Gun,None,Moving,1093,22,1280,681,Talking
+Law Officer,Black,1.71,35,M,Helmet|face mask,Jacket,N.I,N.I,None,No,No,None,Standing,13,96,309,699,Talking
+Viewer,Black,1.73,28,M,Cap|face mask,T-shirt,Pants,N.I,None,No,No,None,Seated,267,503,426,692,Talking
+Viewer,Native,1.65,34,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Seated,476,238,568,428,Talking
+Viewer,Native,1.66,28,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Seated,470,349,587,636,Talking
+Viewer,Black,1.70,24,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Seated,515,427,718,678,Talking
+Viewer,Native,1.74,38,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Seated,548,199,606,325,Talking
+Viewer,White,1.70,41,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Seated,641,196,761,447,Talking
+Viewer,Native,1.76,24,F,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Seated,739,351,831,570,Talking
+Viewer,Native,1.73,27,F,Face mask,Shirt,Pants,N.I,None,No,No,None,Seated,791,388,966,715,Talking
+Viewer,Black,1.71,21,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Seated,1000,314,1111,578,Talking
+Viewer,Native,1.68,20,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Seated,1033,190,1100,312,Talking
+Viewer,White,1.70,32,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Seated,1092,183,1168,419,Talking
+Law Officer,White,1.78,31,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,1,241,145,457,Talking
+Law Officer,Native,1.73,31,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,101,265,139,434,Talking
+Law Officer,Native,1.71,30,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,132,244,229,473,Guarding
+Law Officer,White,1.70,30,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,248,265,315,487,Guarding
+Law Officer,White,1.68,34,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,355,267,437,443,Guarding
+Law Officer,Native,1.65,44,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,493,265,539,445,Guarding
+Law Officer,Native,1.68,33,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,581,277,614,444,Guarding
+Law Officer,Black,1.71,31,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,610,278,671,443,Guarding
+Law Officer,Native,1.72,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,661,267,701,451,Guarding
+Law Officer,White,1.68,27,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,697,308,728,413,Guarding
+Law Officer,Native,1.70,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,755,274,796,458,Guarding
+Law Officer,Black,1.71,28,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,797,296,867,436,Guarding
+Law Officer,Black,1.73,29,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,846,278,928,447,Guarding
+Law Officer,Native,1.65,46,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,931,291,963,467,Guarding
+Law Officer,Native,1.68,35,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,959,280,1023,432,Guarding
+Law Officer,Native,1.70,37,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,1024,282,1076,454,Guarding
+Law Officer,Native,1.64,37,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,1058,319,1111,464,Guarding
+Law Officer,Native,1.68,37,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,1101,304,1150,458,Guarding
+Law Officer,Native,1.71,38,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,1148,306,1185,436,Guarding
+Law Officer,Native,1.73,40,M,Helmet,Sweater,Pants,Boots,None,No,Other,None,Moving,1189,309,1228,456,Guarding
+Viewer,Native,1.70,22,M,Cap|face mask,Shirt,Jeans,Sneakers,None,No,No,None,Moving,6,199,114,651,Walking
+Viewer,Native,1.68,27,F,Face mask,Shirt,Jeans,N.I,None,No,No,None,Moving,88,128,223,444,Walking
+Viewer,Native,1.69,26,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,161,64,222,301,Walking
+Viewer,White,1.72,33,M,Face mask,Sweater|backpack,N.I,N.I,None,No,No,None,Moving,191,104,319,435,Walking
+Viewer,White,1.73,21,M,Face mask,T-shirt,N.I,N.I,None,No,No,None,Moving,270,8,350,213,Walking
+Viewer,White,1.75,38,F,Face mask,T-shirt,N.I,N.I,None,No,No,None,Standing,302,126,461,512,Walking
+Victim,White,1.72,35,M,Face mask,T-shirt|backpack,N.I,N.I,None,Yes,No,None,Standing,383,31,489,256,Idle
+Viewer,Native,1.68,34,M,Face mask,Sweater,N.I,N.I,None,No,No,None,Standing,472,61,779,622,Idle
+Viewer,Native,1.67,26,M,Face mask,Sweater|backpack,N.I,N.I,None,No,No,None,Standing,653,51,767,339,Idle
+Viewer,Native,1.68,46,M,Face mask,T-shirt,Jeans,N.I,None,No,No,None,Moving,726,8,827,283,Walking
+Viewer,Native,1.67,35,M,Face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,31,412,145,703,Walking
+Viewer,Black,1.70,40,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Moving,103,404,198,634,Walking
+Viewer,Native,1.80,25,M,Face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,202,270,328,627,Walking
+Viewer,Native,1.75,18,M,Face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,381,284,518,606,Walking
+Viewer,Native,1.73,21,M,Face mask,T-shirt,Joggers,N.I,None,No,No,None,Moving,448,291,515,478,Walking
+Viewer,Black,1.72,48,F,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,528,288,614,510,Walking
+Viewer,Native,1.68,25,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,540,245,587,387,Walking
+Viewer,Black,1.67,26,M,Face shield|face mask,Sweater|backpack,Jeans,Sneakers,None,No,No,None,Moving,600,253,652,439,Walking
+Viewer,Black,1.72,30,M,Face shield|face mask,Sweater|backpack,Jeans,Sneakers,None,No,No,None,Moving,622,288,714,523,Walking
+Viewer,Native,1.70,21,M,Helmet|face mask,Shirt,Jeans,Sneakers,None,No,No,None,Moving,706,245,768,474,Walking
+Viewer,Native,1.73,31,M,Face mask,Shirt,Jeans,Sneakers,None,No,No,None,Moving,775,266,792,341,Walking
+Viewer,Black,1.70,25,M,Face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,803,266,853,434,Walking
+Viewer,Native,1.69,26,F,Face shield|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,874,270,935,454,Walking
+Viewer,Black,1.70,30,F,Face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,927,253,972,444,Walking
+Viewer,Black,1.65,31,F,Face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,972,253,1059,430,Walking
+Viewer,Native,1.68,29,F,Face shield|face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,96,238,191,464,Walking
+Viewer,Native,1.70,27,M,Face mask,Sweater,Joggers,Sneakers,None,No,No,None,Moving,237,248,326,492,Walking
+Viewer,Black,1.69,42,M,Face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,332,244,416,470,Walking
+Viewer,White,1.72,44,M,Face mask,T-shirt,Pants,Sneakers,None,No,No,None,Moving,400,251,480,488,Walking
+Viewer,Native,1.71,23,M,Face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,416,201,457,309,Walking
+Viewer,Black,1.66,46,M,Helmet|face mask,T-shirt,Joggers,Sneakers,None,No,No,None,Moving,544,221,615,491,Walking
+Viewer,White,1.68,28,M,Face shield|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,591,248,689,565,Walking
+Viewer,Native,1.67,19,F,Face shield|face mask,T-shirt,Jeans,Sneakers,None,No,No,None,Moving,665,197,736,490,Walking
+Viewer,Black,1.70,21,M,Helmet|face mask,Sweater,Jeans,Sneakers,None,No,No,None,Moving,755,204,787,332,Walking
+Viewer,Black,1.68,23,M,Face mask,T-shirt,Pants,N.I,None,No,No,None,Moving,779,193,883,527,Walking
+Viewer,Native,1.69,33,M,Face mask,Coat,Shorts,N.I,None,No,No,None,Moving,850,169,939,410,Walking
+Viewer,Native,1.68,45,M,Face mask,T-shirt,Shorts,N.I,None,No,No,None,Moving,931,182,984,487,Walking
+Viewer,Native,1.70,21,M,Helmet|face mask,Sweater,Joggers,N.I,None,No,No,None,Moving,984,184,1075,549,Walking
+Viewer,Native,1.68,28,F,Face shield|face mask,Sweater,Pants,N.I,None,No,No,None,Moving,1042,180,1118,535,Walking
